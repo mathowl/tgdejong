@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Thomas de Jong
 permalink: /
 subtitle: <a href='#'>Kanazawa University</a>. 
 
