@@ -16,9 +16,9 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
@@ -54,8 +54,21 @@
       "url": "",
       "area": "Applied Mathematics",
       "studyType": "PhD",
-      "startDate": "2015-1",
-      "endDate": "2019-1",
+      "startDate": "1-15",
+      "endDate": "1-19",
+      "score": "",
+      "courses": [
+        ""
+      ]
+    }, 
+    
+    {
+      "institution": "Free University of Amsterdam",
+      "url": "",
+      "area": "Applied Mathematics",
+      "studyType": "PhD",
+      "startDate": "9-12",
+      "endDate": "1-15",
       "score": "",
       "courses": [
         ""
