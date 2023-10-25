@@ -63,13 +63,23 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Dutch",
       "fluency": "Native speaker"
     },
     {
       "language": "English",
       "fluency": "Fluent"
+    },
+    {
+      "language": "Chinese",
+      "fluency": "Working proficiency"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Intermediate"
     }
+
+
   ],
   "interests": [],
   "references": [],
