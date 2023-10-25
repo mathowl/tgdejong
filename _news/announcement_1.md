@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 25-10-23 
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Comfos this year is being held on 11-12 December https://sites.google.com/view/comfos23 
