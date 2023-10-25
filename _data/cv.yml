@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 14th March 1879
     - name: Languages
-      value: English, German
+      value: English, Dutch, Chinese, Japanese
 - title: Education
   type: time_table
   contents:
