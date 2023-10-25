@@ -23,7 +23,7 @@
     ]
   },
   "work": [
-    {
+      {
       "name": "Faculty of Mathematics and Physics, Notsu-lab",
       "position": "Postdoc",
       "url": "",
@@ -34,7 +34,18 @@
         ""
       ]
     },
-        {
+    {
+      "name": "Faculty of Mathematics and Physics",
+      "position": "Part-time lecturer",
+      "url": "",
+      "startDate": "10-23",
+      "endDate": "12-23",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    },
+    {
       "name": "University of Groningen",
       "position": "Visiting Researcher",
       "url": "",
