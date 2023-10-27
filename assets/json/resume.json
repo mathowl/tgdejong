@@ -27,7 +27,7 @@
       "name": "Faculty of Mathematics and Physics, Notsu-lab",
       "position": "Postdoc",
       "url": "",
-      "startDate": "23-2",
+      "startDate": "23-02",
       "endDate": "now",
       "summary": "",
       "highlights": [
@@ -49,7 +49,7 @@
       "name": "University of Groningen",
       "position": "Visiting Researcher",
       "url": "",
-      "startDate": "22-6",
+      "startDate": "22-06",
       "endDate": "22-11",
       "summary": "",
       "highlights": [
@@ -58,15 +58,31 @@
     }
     
   ],
-  "volunteer": [],
+  "volunteer": [{
+    "organization": "Organization Empower Yourself",
+    "position": "Volunteer",
+    "url": "",
+    "startDate": "19-09",
+    "endDate": "19-11",
+    "summary": "Python tutor for reschooling programs"
+  },
+  {
+    "organization": "Xiamen TNR",
+    "position": "Volunteer",
+    "url": "",
+    "startDate": "21-01",
+    "endDate": "21-06",
+    "summary": "Trap Neutal Release for stray/wild cats"
+  }
+  ],
   "education": [
     {
       "institution": "Eindhoven University of Technology",
       "url": "",
       "area": "Applied Mathematics",
       "studyType": "PhD",
-      "startDate": "15-1",
-      "endDate": "19-1",
+      "startDate": "15-01",
+      "endDate": "19-01",
       "score": "",
       "courses": [
         ""
@@ -78,8 +94,8 @@
       "url": "",
       "area": "Applied Mathematics",
       "studyType": "PhD",
-      "startDate": "12-9",
-      "endDate": "15-1",
+      "startDate": "12-09",
+      "endDate": "15-01",
       "score": "",
       "courses": [
         ""
