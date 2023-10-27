@@ -27,7 +27,7 @@
       "name": "Faculty of Mathematics and Physics, Notsu-lab",
       "position": "Postdoc",
       "url": "",
-      "startDate": "2-23",
+      "startDate": "23-2",
       "endDate": "now",
       "summary": "",
       "highlights": [
@@ -38,8 +38,8 @@
       "name": "Faculty of Mathematics and Physics",
       "position": "Part-time lecturer",
       "url": "",
-      "startDate": "10-23",
-      "endDate": "12-23",
+      "startDate": "23-10",
+      "endDate": "23-12",
       "summary": "",
       "highlights": [
         ""
@@ -49,8 +49,8 @@
       "name": "University of Groningen",
       "position": "Visiting Researcher",
       "url": "",
-      "startDate": "6-22",
-      "endDate": "11-22",
+      "startDate": "22-6",
+      "endDate": "22-11",
       "summary": "",
       "highlights": [
         ""
@@ -65,8 +65,8 @@
       "url": "",
       "area": "Applied Mathematics",
       "studyType": "PhD",
-      "startDate": "1-15",
-      "endDate": "1-19",
+      "startDate": "15-1",
+      "endDate": "19-1",
       "score": "",
       "courses": [
         ""
@@ -78,8 +78,8 @@
       "url": "",
       "area": "Applied Mathematics",
       "studyType": "PhD",
-      "startDate": "9-12",
-      "endDate": "1-15",
+      "startDate": "12-9",
+      "endDate": "15-1",
       "score": "",
       "courses": [
         ""
@@ -119,6 +119,15 @@
     {
       "language": "Japanese",
       "fluency": "Intermediate"
+    },
+    {
+      "language": "French",
+      "fluency": "Basic"
+    },
+    ,
+    {
+      "language": "German",
+      "fluency": "Basic"
     }
 
 
