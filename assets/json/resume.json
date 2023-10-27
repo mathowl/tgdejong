@@ -29,21 +29,17 @@
       "url": "",
       "startDate": "23-02",
       "endDate": "now",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
-    },
+      "summary": "Funded by CREST. The main theme is reservoir computing"
+      }
+      
+    ,
     {
       "name": "Faculty of Mathematics and Physics",
       "position": "Part-time lecturer",
       "url": "",
       "startDate": "23-10",
       "endDate": "23-12",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
+      "summary": "Teaching undergraduate differential equation course"
     },
     {
       "name": "University of Groningen",
@@ -51,10 +47,7 @@
       "url": "",
       "startDate": "22-06",
       "endDate": "22-11",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
+      "summary": "Analytical results on Diabetes type 1 models"
     }
     
   ],
@@ -116,7 +109,12 @@
       "summary": ""
     }
   ],
-  "certificates": [],
+  "certificates": [{
+    "name": "SQL-Bootcamp",
+    "date": "2021",
+    "issuer": "Udemy",
+    "url": "https://www.udemy.com/certificate/UC-7e51e8ba-9ea7-4041-b60a-8f5ee3aa990e/"
+  }],
   "publications": [],
   "skills": [],
   "languages": [
