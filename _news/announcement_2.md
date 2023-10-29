@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DEDS seminar
-date: 2023-10-27 
+date: 2023-11-10 
 inline: false
 related_posts: false
 ---

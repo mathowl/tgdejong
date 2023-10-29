@@ -19,6 +19,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a mathematician. But I dabble a lot in the applied sciences. So far my application domains include AI, celestial mechanics, cell biology. My mathematical expertise mainly concerns dynamical systems and lately I am very drawn to data science and neural network problems. Currently, my main focus is reservoir computing. I am in the Notsu-lab at the Faculty of Mathematics and Physics in Kanazawa University. My research is funded by CREST.
+I am an applied mathematician. So far my application domains include cell biology, archeology, social science and celestial mechanics. My mathematical expertise mainly concerns dynamical systems and lately I am very drawn to data science and neural network problems.
 
 For my research I mainly use Python. I have worked on a couple of mechanical and material science problems in collaboration with industry, and I am always on the look out for new collaborations.
