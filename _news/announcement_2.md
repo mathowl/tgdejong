@@ -1,12 +1,12 @@
 ---
 layout: post
-title: DEDS seminar
-date: 2023-11-1 
+title: Announcement DEDS seminar on November 10th
+date: 2023-11-01 
 inline: false
 related_posts: false
 ---
 
-**Date:**  2023-11-10 16:15-18:15  Kanazawa University (zoom link)[https://us06web.zoom.us/meeting/register/tZYrfuiqrT8vHNXgr978U5_dbkSJ4Fwfs6db#/registration]
+**Date:**  2023-11-10 16:15-18:15  Kanazawa University [zoom link](https://us06web.zoom.us/meeting/register/tZYrfuiqrT8vHNXgr978U5_dbkSJ4Fwfs6db#/registration)
 
 **Speaker:** Antoine Diez（ASHBi - Kyoto University）
 
