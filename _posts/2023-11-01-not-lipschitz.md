@@ -1,8 +1,8 @@
 ---
 layout: post
-title: not lipschitz but unique solutions 
+title: Not lipschitz but unique solutions 
 date: 2023-11-01 11:12:00-0400
-description: Not lipschitz but unique
+description: a neat example
 tags: formatting math
 categories: neat-examples
 related_posts: false
@@ -14,7 +14,7 @@ $$
 \frac{dy}{dt} = \sqrt{y}+1 \;\; y(0)=0 \;\; t \in [0,1] \;\; (y(t) \in \mathbb{R})
 $$
 
-We will show that solutions are unique eventhough it is not Lipschitz. There are multiple ways to solve this.  First of all we need to make sure that a solution exists. $\sqrt{y}+1$ is continuous in a neighbourhood of zero Hence, a solution exists. Let's write the differential equation in its integral form
+We will show that solutions are unique eventhough it is not Lipschitz. There are multiple ways to solve this.  First of all we need to make sure that a solution exists. $$ \sqrt{y}+1 $$ is continuous in a neighbourhood of zero Hence, a solution exists. Let's write the differential equation in its integral form
 
 
 $$
