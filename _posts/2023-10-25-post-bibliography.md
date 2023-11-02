@@ -3,7 +3,7 @@ layout: post
 title: Improving speed of LLG reservoir simulations  
 date: 2023-10-25 09:56:00-0400
 description: accepted at MLNCP (NeurIPS)
-tags: reservoir, coding 
+tags: reservoir coding 
 categories: paper
 giscus_comments: false
 related_posts: false
