@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Announcement DEDS seminar on November 10th
+title: Antoine Diez DEDS seminar on November 10th
 date: 2023-11-01 
 inline: false
 related_posts: false
