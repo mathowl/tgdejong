@@ -1,6 +1,7 @@
 ---
 layout: post
 title: DEDS November 24th Matthew Smart (Dynamical systems in multicellular development) 
+date: 2023-11-17
 inline: false
 related_posts: false
 ---

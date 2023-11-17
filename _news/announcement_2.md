@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DEDS November 10th - Antoine Diez (Kinetic theory for active particle systems with geometrical constraints) 
-date: 2023-11-01 
+date: 2023-11-01
 inline: false
 related_posts: false
 ---
