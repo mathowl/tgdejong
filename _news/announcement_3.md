@@ -35,5 +35,6 @@ hierarchical self-organization.
 
 [1] A model of replicating coupled oscillators generates naturally
 occurring cell networks. https://arxiv.org/abs/2305.14338
+
 [2] Emergent properties of collective gene-expression patterns in
 multicellular systems. https://doi.org/10.1016/j.xcrp.2023.101247
