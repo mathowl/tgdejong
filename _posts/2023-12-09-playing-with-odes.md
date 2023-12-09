@@ -12,8 +12,8 @@ I was teaching an ODE course last quarter and I came up with some fun exercises.
 
 $$
 \begin{aligned}
-\dot x &= 2xy \\
-\dot y &= x^2+y^2
+\dot{x} &= 2xy \\
+\dot{y} &= x^2+y^2
 \end{aligned}  
 $$
 
@@ -30,19 +30,19 @@ which are easy to solve. Then I gave the students this ODE
 
 $$
 \begin{aligned}
-\dot x &= 2xy \\
-\dot y &= x^2+4y^2
+\dot{x} &= 2xy \\
+\dot{y} &= x^2+4y^2
 \end{aligned}  
 $$
 
-If you proceed as in te first problem you are going to have a hard time. A better way is to consider the new variable $$ z = y/x^2 $$ and we obtain that $$ \dot z =  1 $$ and then with some creative substituting you get there.
+If you proceed as in te first problem you are going to have a hard time. A better way is to consider the new variable $$ z = y/x^2 $$ and we obtain that $$ \dot{z} =  1 $$ and then with some creative substituting you get there.
 
 If we would consider a more general ODE
 
 $$
 \begin{aligned}
-\dot x &=  \alpha xy \\
-\dot y &= \beta x^2+ \gamma y^2
+\dot{x} &=  \alpha xy \\
+\dot{y} &= \beta x^2+ \gamma y^2
 \end{aligned}  
 $$
 
