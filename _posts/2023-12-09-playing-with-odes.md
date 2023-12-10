@@ -46,6 +46,6 @@ $$
 \end{aligned}  
 $$
 
-with $$ \alpha, \beta, \gamma $$ real parameters. Then it is easy to show that the first method works for  $$ \beta = \gamma, \alpha= -2 \beta $$. The second method works for $$ \gamma = 2 \alpha $$.
+with $$ \alpha, \beta, \gamma $$ real parameters. Then it is easy to show that the first method works for  $$ \beta = \gamma $$ , $$ \alpha= -2 \beta $$. The second method works for $$ \gamma = 2 \alpha $$.
 
 So far I haven't uncovered any other general case other then degenerate case obtained by setting a parameter to zero. I would love to know if this is part of some general theorem.
