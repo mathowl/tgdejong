@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Neat 2D ODE transformations
-date: 2023-12-09 20:51:00-0400
+date: 2023-12-09 08:51:00-0400
 description: Generalizing neat examples
 tags: math
 categories: math
