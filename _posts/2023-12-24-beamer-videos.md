@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Embedding videos in beamer
-date: 2023-12-09 08:51:00-0400
+date: 2023-12-24 08:51:00-0400
 description: Adding videos to latex presentations
 tags: formatting
 categories: 
