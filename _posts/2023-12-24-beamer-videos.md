@@ -8,9 +8,9 @@ categories:
 related_posts: false
 ---
 
-Ever since flash is not supported by pdfs you need to do a bit more work to get videos to work. 
+Flash is not supported anymore by Adobe so you need to do a bit more work to get videos to work in latex. 
 Federico Tartarini made this very nice bit of code to include videos in your latex beamer presentations
-[Embed video](https://gist.github.com/FedericoTartarini/7af4eb6fc13b1cb9cc68b7e8ea823d50)
+[Embed video](https://gist.github.com/FedericoTartarini/7af4eb6fc13b1cb9cc68b7e8ea823d50) Put the .tex in the same folder as your main document. You can then use the code below to include a video in your presention: 
 
 ````
 \documentclass[12pt,a4paper]{beamer}
@@ -22,7 +22,7 @@ Federico Tartarini made this very nice bit of code to include videos in your lat
 \begin{frame}{Example}
 
 \begin{figure}
-\embedvideo{\includegraphics[width=7cm]{./Pictures/screen_shot.png}}{./Movies/Movie.mp4}
+\embedvideo{\includegraphics[width=7cm]{./Pictures/screen_shot.png}}{./Movies/Video.mp4}
 \caption{Click to play}
 \end{figure}
 \end{frame}
@@ -30,3 +30,5 @@ Federico Tartarini made this very nice bit of code to include videos in your lat
 \end{document}
 
 `````
+
+A notable workaround was using ``\usepackage{multimedia}`` with Foxit.  However, Foxit has also stopped supporting flash.  
