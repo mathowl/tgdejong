@@ -23,8 +23,8 @@ with $$ y(t) \in \mathbb{R} $$, $$ f(0) = 0 $$ and $$ f \in C^1(\mathbb{R}) $$. 
 
 These conditions on $$ f $$ allow us to show asymptotic stability of the equilibrium at 0. 
 
-Stability: So without loss of generality take $$ \varepsilon < a $$ and denote by $$ y(t; c ) $$  a solution which satisfies $$ y(0;c)=c $$.  If $$ | c| < \varepsilon $$ then $$ | y(t;c)| \leq |c|  <\varepsilon $$  for $$ t \geq 0 $$ because of the sign of $$ f $$.
+*Stability:* So without loss of generality take $$ \varepsilon < a $$ and denote by $$ y(t; c ) $$  a solution which satisfies $$ y(0;c)=c $$.  If $$ | c| < \varepsilon $$ then $$ | y(t;c)| \leq |c|  <\varepsilon $$  for $$ t \geq 0 $$ because of the sign of $$ f $$ .
 
-Asymptotic: Let's consider $$ 0 < c < \varepsilon < a $$ and again consider $$ y(t;c) $$ as previously defined. By the sign of $$ f $$ , $$ y(t;c) $$ is monotonously decreasing (with respect to $$ t $$). Therefore, $$ \lim_{t \rightarrow \infty }y(t;c) = b $$. If $$ b=0 $$ we are done so suppose $$ b>0 $$. But then $$ f(b) <0 $$ so it hasn't converged which gives a contradiction. Hence, we obtain $$ b=0 $$. Same method works for $$ 0>c> \varepsilon>-a $$ and for $$ c=0 $$ it is automatically satisfied. 
+*Asymptotic:* Let's consider $$ 0 < c < \varepsilon < a $$ and again consider $$ y(t;c) $$ as previously defined. By the sign of $$ f $$ , $$ y(t;c) $$ is monotonously decreasing (with respect to $$ t $$). Therefore, $$ \lim_{t \rightarrow \infty }y(t;c) = b $$. If $$ b=0 $$ we are done so suppose $$ b>0 $$. But then $$ f(b) <0 $$ so it hasn't converged which gives a contradiction. Hence, we obtain $$ b=0 $$. Same method works for $$ 0>c> \varepsilon>-a $$ and for $$ c=0 $$ it is automatically satisfied. 
 
 This set up will allow you to consider cases for which standard linearization techniques do not apply like $$ f(y) = -y^3 + y^4 g(y) $$ with $$ g \in C^1(\mathbb{R}) $$. Note that this approach only works in the 1D case. It is a nice exercise to check where it breaks down.   
