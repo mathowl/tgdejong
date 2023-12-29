@@ -17,9 +17,13 @@ $$
 
 with $$ y(t) \in \mathbb{R} $$, $$ f(0) = 0 $$ and $$ f \in C^1(\mathbb{R}) $$. Let's assume that $$ f $$ is of the form such that in some interval $$ (-a, a) $$ the phase space is as in the figure below.
 
-<div class="container">
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/asymp.PNG" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
+
 
 These conditions on $$ f $$ allow us to show asymptotic stability of the equilibrium at 0. 
 
