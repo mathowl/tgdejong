@@ -15,7 +15,7 @@ $$
 \dot y = f(y)
 $$
 
-with $$ y(t) \in \mathbb{R} $$, $$ f(0) = 0 $$ and $$ f \in C^1(\mathbb{R}) $$. Let's assume that $$ f $$ is of the form such that in some interval $$ (-a, a) $$ the phase space is as in the figure below.
+with $ y(t) \in \mathbb{R} $, $ f(0) = 0 $ and $ f \in C^1(\mathbb{R}) $. Let's assume that $ f $ is of the form such that in some interval $ (-a, a) $ the phase space is as in the figure below.
 
 
 <div class="row">
@@ -32,7 +32,7 @@ These conditions on $ f $ allow us to show asymptotic stability of the equilibri
 
 ## Proof
 
-**Stability.** Without of loss of generality take $ \varepsilon < a $ and denote by $y(t;c)$ a solution which at $t=0$ is $ c $. If $ |c| < \varepsilon $  then we have that $ |y(t;c) \leq |c| < \varepsilon $ for $ t \geq 0 $ because of sign of $ f $ .
+**Stability.** Without of loss of generality take $ \varepsilon < a $ and denote by $y(t;c)$ a solution which at $t=0$ is $ c $. If $|c| < \varepsilon $  then we have that $|y(t;c) \leq |c| < \varepsilon $ for $ t \geq 0 $ because of sign of $ f $ .
 
 **Asymptotic.** Let's consider $ 0 < c < \varepsilon < a $ and again consider $ y(t;c) $ as previously defined. By the sign of $ f $ , $ y(t;c) $ is monotonously decreasing (with respect to $ t $). Therefore, $ \lim_{t \rightarrow \infty } y(t;c) = b $. If $ b=0 $ we are done so suppose $ b > 0 $. But then $ f(b) <0 $ so it hasn't converged which gives a contradiction. Hence, we obtain $ b=0 $. Same method works for $ 0 > c > \varepsilon > -a $ and for $ c=0 $ it is automatically satisfied. 
 
