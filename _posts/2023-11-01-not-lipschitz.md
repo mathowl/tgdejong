@@ -3,8 +3,8 @@ layout: post
 title: Not lipschitz but unique solutions 
 date: 2023-11-01 11:12:00-0400
 description: a neat example
-tags: formatting math
-categories: neat-examples
+tags: ODE
+categories: math
 related_posts: false
 ---
 
