@@ -15,7 +15,7 @@ $$
 \dot y = f(y)
 $$
 
-with $ y(t) \in \mathbb{R} $, $ f(0) = 0 $ and $ f \in C^1(\mathbb{R}) $. Let's assume that $ f $ is of the form such that in some interval $ (-a, a) $ the phase space is as in the figure below.
+with $$ y(t) \in \mathbb{R} $$, $$ f(0) = 0 $$ and $$ f \in C^1(\mathbb{R}) $$. Let's assume that $$ f $$ is of the form such that in some interval $$ (-a, a) $$ the phase space is as in the figure below.
 
 
 <div class="row">
@@ -28,15 +28,15 @@ with $ y(t) \in \mathbb{R} $, $ f(0) = 0 $ and $ f \in C^1(\mathbb{R}) $. Let's 
 </div>
 
 
-These conditions on $ f $ allow us to show asymptotic stability of the equilibrium at 0. 
+These conditions on $$ f $$ allow us to show asymptotic stability of the equilibrium at 0. 
 
 ## Proof
 
-**Stability.** Without of loss of generality take $ \varepsilon < a $ and denote by $y(t;c)$ a solution which at $t=0$ is $ c $. If $|c| < \varepsilon $  then we have that $|y(t;c) \leq |c| < \varepsilon $ for $ t \geq 0 $ because of sign of $ f $ .
+**Stability.** Without of loss of generality take $$ \varepsilon < a $$ and denote by $$y(t;c)$$ a solution which at $$t=0$$ is $$ c $$. If $$|c| \lt \varepsilon $$  then we have that $$ |y(t;c) \leq |c| \lt \varepsilon $$ for $$ t \geq 0 $$ because of sign of $$ f $$ .
 
-**Asymptotic.** Let's consider $ 0 < c < \varepsilon < a $ and again consider $ y(t;c) $ as previously defined. By the sign of $ f $ , $ y(t;c) $ is monotonously decreasing (with respect to $ t $). Therefore, $ \lim_{t \rightarrow \infty } y(t;c) = b $. If $ b=0 $ we are done so suppose $ b > 0 $. But then $ f(b) <0 $ so it hasn't converged which gives a contradiction. Hence, we obtain $ b=0 $. Same method works for $ 0 > c > \varepsilon > -a $ and for $ c=0 $ it is automatically satisfied. 
+**Asymptotic.** Let's consider $$ 0 \lt c \lt \varepsilon \lt a $$ and again consider $$ y(t;c) $$ as previously defined. By the sign of $$ f $$ , $$ y(t;c) $$ is monotonously decreasing (with respect to $$ t $$). Therefore, $$ \lim_{t \rightarrow \infty } y(t;c) = b $$. If $$ b=0 $$ we are done so suppose $$ b \gt 0 $$. But then $$ f(b)  \lt 0 $$ so it hasn't converged which gives a contradiction. Hence, we obtain $$ b=0 $$. Same method works for $$ 0 \gt c \gt \varepsilon > -a $$ and for $$ c=0 $$ it is automatically satisfied. 
 
 ## Remark
 
-This set up will allow you to consider cases for which standard linearization techniques do not apply like $ f(y) = -y^3 + y^4 g(y) $ with $ g \in C^1(\mathbb{R}) $. Note that this approach only works in the 1D case. It is a nice exercise to check where it breaks down.   
+This set up will allow you to consider cases for which standard linearization techniques do not apply like $$ f(y) = -y^3 + y^4 g(y) $$ with $$ g \in C^1(\mathbb{R}) $$. Note that this approach only works in the 1D case. It is a nice exercise to check where it breaks down.   
 
