@@ -34,7 +34,7 @@ These conditions on $$ f $$ allow us to show asymptotic stability of the equilib
 
 **Stability.** Without of loss of generality take $$ \varepsilon \lt a $$ and denote by $$y(t;c)$$ a solution which at $$t=0$$ is $$ c $$. If $$\lvert c \rvert \lt \varepsilon $$  then we have that $$ \lvert y(t;c) \rvert \leq \lvert c \rvert \lt \varepsilon $$ for $$ t \geq 0 $$ because of sign of $$ f $$ .
 
-**Asymptotic.** Let's consider $$ 0 \lt c \lt \varepsilon \lt a $$ and again consider $$ y(t;c) $$ as previously defined. By the sign of $$ f $$ , $$ y(t;c) $$ is monotonously decreasing (with respect to $$ t $$). Therefore, $$ \lim_{t \rightarrow \infty } y(t;c) = b $$. If $$ b=0 $$ we are done so suppose $$ b \gt 0 $$. But then $$ f(b)  \lt 0 $$ so it hasn't converged which gives a contradiction. Hence, we obtain $$ b=0 $$. Same method works for $$ 0 \gt c \gt -\varepsilon \geq -a $$ and for $$ c=0 $$ it is automatically satisfied. 
+**Asymptotic.** Let's consider $$ 0 \lt c \lt \varepsilon \lt a $$ and again consider $$ y(t;c) $$ as previously defined. By the sign of $$ f $$ , $$ y(t;c) $$ is monotonously decreasing (with respect to $$ t $$). Therefore, $$ \lim_{t \rightarrow \infty } y(t;c) = b $$. If $$ b=0 $$ we are done so suppose $$ b \gt 0 $$. But then $$ f(b)  \lt 0 $$ so it hasn't converged which gives a contradiction. Hence, we obtain $$ b=0 $$. Same method works for $$ 0 \gt c \gt -\varepsilon \gt -a $$ and for $$ c=0 $$ it is automatically satisfied. 
 
 ## Remark
 
