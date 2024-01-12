@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mixing MathJaX with CSS, HTML
-date: 2023-12-30 08:51:00-0400
+date: 2024-01-10 08:51:00-0400
 description: Notes on misinterpertations
 tags: mathjax
 categories: formatting
