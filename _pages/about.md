@@ -28,9 +28,9 @@ I am an organizer of the Kanazawa Analysis Seminar [KAS](http://polaris.s.kanaza
 
 **Current projects:**
 <ul>
-    <li>Reservoir computing: <a href ="https://www.kohei-nakajima.com/">Kohei Nakajima </a>, [Hirofumi Notsu](https://scheme.hn/)</li>
-    <li>Biomath (replicating oscillators): [Ayumi Ozawa](https://sites.google.com/edu.k.u-tokyo.ac.jp/ayumiozawa/home), [Matthew Smart](https://www.simonsfoundation.org/people/matthew-smart/), Hayden Hale</li>
-    <li>Reservoir computing (lyapunov exponents for high-dimensional systems): [Alef Sterk](https://www.math.rug.nl/~alef/)</li>
+    <li>Reservoir computing: <a href ="https://www.kohei-nakajima.com/">Kohei Nakajima </a>, <a href = "https://scheme.hn/"> Hirofumi Notsu </a> </li>
+    <li>Biomath (replicating oscillators): <a href="https://sites.google.com/edu.k.u-tokyo.ac.jp/ayumiozawa/home"> Ayumi Ozawa </a>, <a href = "https://www.simonsfoundation.org/people/matthew-smart/"> Matthew Smart </a>, Hayden Hale</li>
+    <li>Reservoir computing (lyapunov exponents for high-dimensional systems): <a href = "https://www.math.rug.nl/~alef/"> Alef Sterk </a> </li>
     <li>Pedestrian flow and swarms: [Alessandro Corbetta](https://corbetta.phys.tue.nl/)</li>
     <li>Data science and Archeology: [Krist Vaesen](https://www.tue.nl/en/research/researchers/krist-vaesen), [Fulco Scherjon](https://www.universiteitleiden.nl/en/staffmembers/fulco-scherjon), Andrew Sorensen, Stan van Zon</li>
     <li>Biomath (surface-bulk PDEs): [Koondaniha Mitra](https://www.koondi.net/), Antoine Diez 
