@@ -28,7 +28,7 @@ I am an organizer of the Kanazawa Analysis Seminar [KAS](http://polaris.s.kanaza
 
 **Current projects:**
 <ul>
-    <li>Reservoir computing: [Kohei Nakajima](https://www.kohei-nakajima.com/), [Hirofumi Notsu](https://scheme.hn/)</li>
+    <li>Reservoir computing: <a href ="https://www.kohei-nakajima.com/">Kohei Nakajima </a>, [Hirofumi Notsu](https://scheme.hn/)</li>
     <li>Biomath (replicating oscillators): [Ayumi Ozawa](https://sites.google.com/edu.k.u-tokyo.ac.jp/ayumiozawa/home), [Matthew Smart](https://www.simonsfoundation.org/people/matthew-smart/), Hayden Hale</li>
     <li>Reservoir computing (lyapunov exponents for high-dimensional systems): [Alef Sterk](https://www.math.rug.nl/~alef/)</li>
     <li>Pedestrian flow and swarms: [Alessandro Corbetta](https://corbetta.phys.tue.nl/)</li>
