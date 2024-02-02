@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 1D asymptotic stabilty proof
+title: 1D asymptotic stability proof
 date: 2023-12-29 08:51:00-0400
 description: a proof without integrals 
 tags: ODE

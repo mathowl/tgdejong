@@ -24,3 +24,14 @@ I am a mathematician. But I dabble a lot in the applied sciences. So far my appl
 For my research I mainly use Python. I have worked on a couple of mechanical and material science problems in collaboration with industry, and I am always on the look for new collaborations.
 
 I am an organizer of the Kanazawa Analysis Seminar [KAS](http://polaris.s.kanazawa-u.ac.jp/kas/), Differential Equations for Data science Seminar [DEDS](https://scheme.hn/deds/) and Continuum Mechanics Focusing on Singularities [CoMFoS](https://sites.google.com/view/comfos23/home). I am a member of the [Reservoir Computing seminar group](https://www.kohei-nakajima.com/rc-seminar-group) and a member of the Dutch Royal Mathematical Society (KWG)
+
+
+**Current projects:**
+<ul>
+    <li>Reservoir computing: [Kohei Nakajima](https://www.kohei-nakajima.com/), [Hirofumi Notsu](https://scheme.hn/)</li>
+    <li>Biomath (replicating oscillators): [Ayumi Ozawa](https://sites.google.com/edu.k.u-tokyo.ac.jp/ayumiozawa/home), [Matthew Smart](https://www.simonsfoundation.org/people/matthew-smart/), Hayden Hale</li>
+    <li>Reservoir computing (lyapunov exponents for high-dimensional systems): [Alef Sterk](https://www.math.rug.nl/~alef/)</li>
+    <li>Pedestrian flow and swarms: [Alessandro Corbetta](https://corbetta.phys.tue.nl/)</li>
+    <li>Data science and Archeology: [Krist Vaesen](https://www.tue.nl/en/research/researchers/krist-vaesen), [Fulco Scherjon](https://www.universiteitleiden.nl/en/staffmembers/fulco-scherjon), Andrew Sorensen, Stan van Zon</li>
+    <li>Biomath (surface-bulk PDEs): [Koondaniha Mitra](https://www.koondi.net/), Antoine Diez 
+</ul>
