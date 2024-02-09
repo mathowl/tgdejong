@@ -35,3 +35,6 @@ I am an organizer of the Kanazawa Analysis Seminar [KAS](http://polaris.s.kanaza
     <li>Data science and Archeology: <a href ="https://www.tue.nl/en/research/researchers/krist-vaesen"> Krist Vaesen </a>, <a href="https://www.universiteitleiden.nl/en/staffmembers/fulco-scherjon"> Fulco Scherjon </a>, Andrew Sorensen, Stan van Zon</li>
     <li>Biomath (surface-bulk PDEs): <a href = "https://www.koondi.net/"> Koondaniha Mitra </a>, Antoine Diez </li> 
 </ul>
+
+Collaborators not mentioned above:  <a href ="https://www.math.rug.nl/~broer/">Henk Broer</a>, <a href="https://sites.google.com/view/nozomiakashi/">Nozomi Akashi</a>, <a href="https://researchmap.jp/tomohiro-taniguchi">Tomohiro Taniguchi</a>, <a href="https://www.few.vu.nl/~jhulshof/">Joost Hulshof</a>, Patrick van Meurs, Yuma Nakamura, Kharisma Putri. 
+
