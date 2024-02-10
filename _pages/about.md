@@ -36,5 +36,6 @@ I am an organizer of the Kanazawa Analysis Seminar [KAS](http://polaris.s.kanaza
     <li>Biomath (surface-bulk PDEs): <a href = "https://www.koondi.net/"> Koondaniha Mitra </a>, Antoine Diez </li> 
 </ul>
 
-Collaborators not mentioned above:  <a href ="https://www.math.rug.nl/~broer/">Henk Broer</a>, <a href="https://sites.google.com/view/nozomiakashi/">Nozomi Akashi</a>, <a href="https://researchmap.jp/tomohiro-taniguchi">Tomohiro Taniguchi</a>, <a href="https://www.few.vu.nl/~jhulshof/">Joost Hulshof</a>, <a href="https://sites.google.com/site/pjpvmeurs/">Patrick van Meurs</a>, Yuma Nakamura, Kharisma Putri. 
+Collaborators not mentioned above:  <a href ="https://www.math.rug.nl/~broer/">Henk Broer</a>, <a href="https://sites.google.com/view/nozomiakashi/">Nozomi Akashi</a>, <a href="https://researchmap.jp/tomohiro-taniguchi">Tomohiro Taniguchi</a>, <a href="https://www.tue.nl/en/research/researchers/georg-prokert">Georg Prokert</a>, <a href="https://www.few.vu.nl/~jhulshof/">Joost Hulshof</a>, <a href="https://sites.google.com/site/pjpvmeurs/">Patrick van Meurs</a>  
 
+Students I am supervising or supervised: Elsa Bernholm (Karlstad University), Yuma Nakamura (Kanazawa University), Kharisma Putri (Kanazawa University).
