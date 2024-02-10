@@ -40,4 +40,4 @@ Collaborators not mentioned above:  <a href ="https://www.math.rug.nl/~broer/">H
 
 Students I am supervising or supervised: Elsa Bernholm (Karlstad University), Yuma Nakamura (Kanazawa University), Kharisma Putri (Kanazawa University).
 
-**Teaching:** I taught <a href ="ODEs">https://eduweb.sta.kanazawa-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?je_cd=2&lct_idx=A000000000135327</a> using the lovely book 微分方程式 by 長瀬道弘. 
+**Teaching:** I taught <a href ="https://eduweb.sta.kanazawa-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?je_cd=2&lct_idx=A000000000135327">ODEs</a> using the lovely book 微分方程式 by 長瀬道弘. 
