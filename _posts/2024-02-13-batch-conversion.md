@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Mixing MathJaX with CSS, HTML
+title: Batch image conversion
 date: 2024-02-12 08:51:00-0400
-description: Batch image conversion
+description: cmd conversion of files with specific extensions
 tags: imagemagick
 categories: code
 related_posts: false
