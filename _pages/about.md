@@ -34,7 +34,7 @@ I very strongly believe in a grass-roots approach to science as it gives rise to
     <li>Reservoir computing (lyapunov exponents for high-dimensional systems): <a href = "https://www.math.rug.nl/~alef/"> Alef Sterk </a> </li>
     <li>Pedestrian flow and swarms: <a href = "https://corbetta.phys.tue.nl/"> Alessandro Corbetta</a> </li>
     <li>Data science and Archeology: <a href ="https://www.tue.nl/en/research/researchers/krist-vaesen"> Krist Vaesen </a>, <a href="https://www.universiteitleiden.nl/en/staffmembers/fulco-scherjon"> Fulco Scherjon </a>, Andrew Sorensen, Stan van Zon</li>
-    <li>Biomath (surface-bulk PDEs): <a href = "https://www.koondi.net/"> Koondaniha Mitra </a>, Antoine Diez </li> 
+    <li>Biomath (surface-bulk PDEs): <a href = "https://www.koondi.net/"> Koondanibha Mitra </a>, Antoine Diez </li> 
 </ul>
 
 Collaborators not mentioned above:  <a href ="https://www.math.rug.nl/~broer/">Henk Broer</a>, <a href="https://sites.google.com/view/nozomiakashi/">Nozomi Akashi</a>, <a href="https://researchmap.jp/tomohiro-taniguchi">Tomohiro Taniguchi</a>, <a href="https://www.tue.nl/en/research/researchers/georg-prokert">Georg Prokert</a>, <a href="https://www.few.vu.nl/~jhulshof/">Joost Hulshof</a>, <a href="https://sites.google.com/site/pjpvmeurs/">Patrick van Meurs</a>  
