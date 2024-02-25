@@ -30,7 +30,7 @@ I very strongly believe in a grass-roots approach to science as it gives rise to
 **Current projects:**
 <ul>
     <li>Reservoir computing: <a href ="https://www.kohei-nakajima.com/">Kohei Nakajima </a>, <a href = "https://scheme.hn/"> Hirofumi Notsu </a> </li>
-    <li>Biomath (replicating oscillators): <a href="https://sites.google.com/edu.k.u-tokyo.ac.jp/ayumiozawa/home"> Ayumi Ozawa </a>, <a href = "https://www.simonsfoundation.org/people/matthew-smart/"> Matthew Smart </a>, Hayden Hale</li>
+    <li>Biomath (replicating oscillators): <a href="https://sites.google.com/edu.k.u-tokyo.ac.jp/ayumiozawa/home"> Ayumi Ozawa </a>, <a href = "https://www.simonsfoundation.org/people/matthew-smart/"> Matthew Smart </a>, Hayden Nunley</li>
     <li>Reservoir computing (lyapunov exponents for high-dimensional systems): <a href = "https://www.math.rug.nl/~alef/"> Alef Sterk </a> </li>
     <li>Pedestrian flow and swarms: <a href = "https://corbetta.phys.tue.nl/"> Alessandro Corbetta</a> </li>
     <li>Data science and Archeology: <a href ="https://www.tue.nl/en/research/researchers/krist-vaesen"> Krist Vaesen </a>, <a href="https://www.universiteitleiden.nl/en/staffmembers/fulco-scherjon"> Fulco Scherjon </a>, Andrew Sorensen, Stan van Zon</li>
