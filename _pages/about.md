@@ -25,7 +25,7 @@ For my research I mainly use Python. I have worked on a couple of mechanical and
 
 I am an organizer of the Kanazawa Analysis Seminar [KAS](http://polaris.s.kanazawa-u.ac.jp/kas/), Differential Equations for Data science Seminar [DEDS](https://scheme.hn/deds/) and Continuum Mechanics Focusing on Singularities [CoMFoS](https://sites.google.com/view/comfos23/home). I am a member of the [Reservoir Computing seminar group](https://www.kohei-nakajima.com/rc-seminar-group) and a member of the Dutch Royal Mathematical Society (KWG)
 
-I very strongly believe in a grass-roots approach to science as it gives rise to more creative and novel results.  
+I very strongly believe in a grass-roots approach to science. I am very supportive of open-source. I think that a delta-function perspective on research is outdated in the age of model-free methods.  
 
 **Current projects:**
 <ul>
