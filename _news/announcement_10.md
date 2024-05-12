@@ -16,11 +16,6 @@ related_posts: false
 
 Then, we show the existence of traveling wave (TW) solutions for a special case of PDE-ODE coupled models arising in the growth of cellulolytic biofilms. TW solutions for such systems have previously been observed numerically as well as in experiments. Using the TW ansatz and a first integral, the system is reduced to an autonomous dynamical system with two unknowns. Analysing the system in the corresponding phase-plane, the existence of a unique TW is shown, which possesses a sharp front and a diffusive tail, and is moving with a constant speed. The linear stability of the TW in two space dimensions is proven under suitable assumptions on the initial data. We present numerical results that exhibit the existence and stability of the TWs, along with corroborating predictions on parametric dependence.
 
-References
-[1] K. Mitra, J.M. Hughes, S. Sonner, H.J. Eberl, & J.D. Dockery (2023). Travelling Waves in a PDE– ODE Coupled Model of Cellulolytic Biofilms with Nonlinear Diffusion. Journal of Dynamics and Differential Equations, 1-35. \
-[2] K. Mitra, & S. Sonner (2023). Well-posedness and properties of nonlinear coupled evolution problems modelling biofilm growth. arXiv:2304.00175.
-
-
 Work in collaboration with:
 S. Sonner, Radboud University, Nijmegen, the Netherlands
 J.M. Hughes, University of British Columbia, Canada
@@ -28,3 +23,8 @@ H.J. Eberl, University of Guelph, Canada
 J.D. Dockery, Montana State University, USA
 R.K.H. Smeets, University of Amsterdam, the Netherlands
 I.S. Pop, Hasselt University, Belgium
+
+[1] K. Mitra, J.M. Hughes, S. Sonner, H.J. Eberl, & J.D. Dockery (2023). Travelling Waves in a PDE– ODE Coupled Model of Cellulolytic Biofilms with Nonlinear Diffusion. Journal of Dynamics and Differential Equations, 1-35. \
+[2] K. Mitra, & S. Sonner (2023). Well-posedness and properties of nonlinear coupled evolution problems modelling biofilm growth. arXiv:2304.00175.
+
+
