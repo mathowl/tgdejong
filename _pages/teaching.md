@@ -12,6 +12,7 @@ nav_order: 4
 
 **Date:** October 23-24:  
 **Location:**  Kanazawa 
+**Registration link:** soon available
 
 This meeting will bring together quantitative biologists, mathematicians, physicists, and computer scientists to 
 
@@ -39,6 +40,7 @@ Thomas de Jong (Kanazawa University)
 
 **Date:** February 11-13
 **Location:** Kyoto
+**Registration link:** available in October
 
 This conference is mainly devoted to new mathematical aspects on machine learning algorithms, big data analysis, and other topics in data science area, from a viewpoint of differential equations. In recent years, several interesting connections between differential equations and data science have been found and attract attention from researchers of differential equations. In this conference, we will gather such researchers of differential equations who have interest in data science and try to shed new light on mathematical foundations on the topics in machine learning/data science.
 
