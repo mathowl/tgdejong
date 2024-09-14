@@ -12,7 +12,7 @@ Dynamics of multicellular systems and applications in machine learning (MCML2024
 
 **Date:** October 23-24:  <br>
 **Location:**  Kanazawa    <br>
-**Registration link:** soon available <br>
+**Registration link:** soon available (later today = September 14)<br>
 
 This meeting will bring together quantitative biologists, mathematicians, physicists, and computer scientists to 
 
@@ -34,7 +34,7 @@ Matthew Smart (Flatiron Institute) <br>
 Hayden Nunley (Flatiron Institute) <br>
 Thomas de Jong (Kanazawa University) <br>
 
-(site will be up later today(=14 september))
+
 
 <h2> Differential Equations for Data Science (DEDS2025) </h2>
 
