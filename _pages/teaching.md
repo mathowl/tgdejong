@@ -42,7 +42,7 @@ Thomas de Jong (Kanazawa University) <br>
 **Location:** Kyoto <br>
 **Registration link:** available in October <br>
 
-This conference is mainly devoted to new mathematical aspects on machine learning algorithms, big data analysis, and other topics in data science area, from a viewpoint of differential equations. In recent years, several interesting connections between differential equations and data science have been found and attract attention from researchers of differential equations. In this conference, we will gather such researchers of differential equations who have interest in data science and try to shed new light on mathematical foundations on the topics in machine learning/data science.
+This conference is mainly devoted to new mathematical aspects on machine learning algorithms, big data analysis, and other topics in data science area, from a viewpoint of differential equations. In recent years, several interesting connections between differential equations and data science have been found and attract attention from researchers of differential equations. In this conference, we will gather such researchers of differential equations who have interest in data science and try to shed new light on mathematical foundations on the topics in machine learning/data science. <br>
 
 **Organizers:**
 
@@ -60,13 +60,13 @@ Julius Fergy Rabago (Kanazawa University, JP)
 
 <h2> Modeling and Numerical Analysis of Nonlinear Phenomena (MNANP2025) </h2>
 
-**Date: March 17-21**
-**Location:** Kyoto
-**Registration:** [Website](https://jftrabago.github.io/MNANP2025/)
+**Date: March 17-21** <br>
+**Location:** Kanazawa <br>
+**Registration:** [Website](https://jftrabago.github.io/MNANP2025/) <br>
 
-MNANP2025 is a workshop dedicated to the Modeling and Numerical Analysis of Nonlinear Phenomena, aimed at showcasing the latest research advancements and developments in this dynamic field. The workshop will emphasize practical applications and encompass a broad range of topics, including nonlinear partial differential equations, complex fluids and materials, viscoelasticity, moving boundaries, among others. Leading experts will present their findings, while interactive sessions will facilitate collaboration and the exchange of knowledge. Participants will gain valuable insights into mathematical frameworks and computational methodologies for tackling complex challenges across various disciplines such as physics, biology, and engineering.
+MNANP2025 is a workshop dedicated to the Modeling and Numerical Analysis of Nonlinear Phenomena, aimed at showcasing the latest research advancements and developments in this dynamic field. The workshop will emphasize practical applications and encompass a broad range of topics, including nonlinear partial differential equations, complex fluids and materials, viscoelasticity, moving boundaries, among others. Leading experts will present their findings, while interactive sessions will facilitate collaboration and the exchange of knowledge. Participants will gain valuable insights into mathematical frameworks and computational methodologies for tackling complex challenges across various disciplines such as physics, biology, and engineering. <br>
 
-**Organizers:**
+**Organizers:** <br>
 
 Thomas Geert de Jong  (Kanazawa University, JP) <br>
 Masato Kimura  (Kanazawa University, JP) <br>
