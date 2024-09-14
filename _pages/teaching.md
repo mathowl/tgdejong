@@ -6,8 +6,12 @@ description: events I am an organizer of
 nav: true
 nav_order: 4
 ---
+<p1>
+**Dynamics of multicellular systems and applications in machine learning (MCML2024)**
+</p1>
 
-October 23-24: **Dynamics of multicellular systems and applications in machine learning (MCML2024)** -  Kanazawa 
+**Date:** October 23-24:  
+**Location:**  Kanazawa 
 
 This meeting will bring together quantitative biologists, mathematicians, physicists, and computer scientists to 
 
@@ -20,7 +24,7 @@ This meeting will bring together quantitative biologists, mathematicians, physic
     </li> 
 </ul>
 
-Organizers: 
+**Organizers:**
 
 Hirofumi Notsu (Kanazawa University)
 Makoto Sato  (Kanazawa University)
@@ -31,11 +35,14 @@ Thomas de Jong (Kanazawa University)
 
 (site will be up later today(=14 september))
 
-Kyoto, February 11-13: **Differential Equations for Data Science (DEDS2025)**
+<p1> **Differential Equations for Data Science (DEDS2025)** </p1>
+
+**Date:** February 11-13
+**Location:** Kyoto
 
 This conference is mainly devoted to new mathematical aspects on machine learning algorithms, big data analysis, and other topics in data science area, from a viewpoint of differential equations. In recent years, several interesting connections between differential equations and data science have been found and attract attention from researchers of differential equations. In this conference, we will gather such researchers of differential equations who have interest in data science and try to shed new light on mathematical foundations on the topics in machine learning/data science.
 
-Organizers:
+**Organizers:**
 
 Hayato Chiba (Tohoku University, JP)
 Thomas de Jong (Kanazawa University, JP)
