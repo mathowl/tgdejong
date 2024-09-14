@@ -169,7 +169,7 @@ collections:
     output: true
     permalink: /news/:path/
   events:
-    output: true
+    output: false
     permalink: /events/:path/
 
 announcements:
