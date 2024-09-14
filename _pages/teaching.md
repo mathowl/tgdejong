@@ -6,9 +6,9 @@ description: events I am an organizer of
 nav: true
 nav_order: 4
 ---
-<h1>
-**Dynamics of multicellular systems and applications in machine learning (MCML2024)**
-</h1>
+<h2>
+Dynamics of multicellular systems and applications in machine learning (MCML2024)
+</h2>
 
 **Date:** October 23-24:  
 **Location:**  Kanazawa 
@@ -36,7 +36,7 @@ Thomas de Jong (Kanazawa University)
 
 (site will be up later today(=14 september))
 
-<h1> **Differential Equations for Data Science (DEDS2025)** </h1>
+<h2> Differential Equations for Data Science (DEDS2025) </h1>
 
 **Date:** February 11-13
 **Location:** Kyoto
