@@ -10,9 +10,9 @@ nav_order: 4
 Dynamics of multicellular systems and applications in machine learning (MCML2024)
 </h2>
 
-**Date:** October 23-24:  
-**Location:**  Kanazawa 
-**Registration link:** soon available
+**Date:** October 23-24:  \n
+**Location:**  Kanazawa    \n
+**Registration link:** soon available \n
 
 This meeting will bring together quantitative biologists, mathematicians, physicists, and computer scientists to 
 
@@ -25,38 +25,38 @@ This meeting will bring together quantitative biologists, mathematicians, physic
     </li> 
 </ul>
 
-**Organizers:**
+**Organizers:** \n
 
-Hirofumi Notsu (Kanazawa University)
-Makoto Sato  (Kanazawa University)
-Ayumi Ozawa (JAMSTEC)
-Matthew Smart (Flatiron Institute)
-Hayden Nunley (Flatiron Institute)
-Thomas de Jong (Kanazawa University)
+Hirofumi Notsu (Kanazawa University) \n
+Makoto Sato  (Kanazawa University) \n
+Ayumi Ozawa (JAMSTEC) \n
+Matthew Smart (Flatiron Institute) \n
+Hayden Nunley (Flatiron Institute) \n
+Thomas de Jong (Kanazawa University) \n
 
 (site will be up later today(=14 september))
 
-<h2> Differential Equations for Data Science (DEDS2025) </h1>
+<h2> Differential Equations for Data Science (DEDS2025) </h2>
 
-**Date:** February 11-13
-**Location:** Kyoto
-**Registration link:** available in October
+**Date:** February 11-13 \n
+**Location:** Kyoto \n
+**Registration link:** available in October \n
 
 This conference is mainly devoted to new mathematical aspects on machine learning algorithms, big data analysis, and other topics in data science area, from a viewpoint of differential equations. In recent years, several interesting connections between differential equations and data science have been found and attract attention from researchers of differential equations. In this conference, we will gather such researchers of differential equations who have interest in data science and try to shed new light on mathematical foundations on the topics in machine learning/data science.
 
 **Organizers:**
 
-Hayato Chiba (Tohoku University, JP)
-Thomas de Jong (Kanazawa University, JP)
-Yoshikazu Giga (The University of Tokyo, JP)
-Lyudmila Grigoryeva (University of St. Gallen, CH)
-Boumediene Hamzi (California Institute of Technology, US)
-Masato Kimura (Kanazawa University, JP)
-Hiroshi Kokubu (Kyoto University, JP)
-Kohei Nakajima (The University of Tokyo, JP)
-Hirofumi Notsu (Kanazawa University, JP, Chair)
-Juan-Pablo Ortega (Nanyang Technological University, SG)
-Julius Fergy Rabago (Kanazawa University, JP)
+Hayato Chiba (Tohoku University, JP) \n
+Thomas de Jong (Kanazawa University, JP) \n
+Yoshikazu Giga (The University of Tokyo, JP) \n
+Lyudmila Grigoryeva (University of St. Gallen, CH) \n
+Boumediene Hamzi (California Institute of Technology, US) \n
+Masato Kimura (Kanazawa University, JP) \n
+Hiroshi Kokubu (Kyoto University, JP) \n
+Kohei Nakajima (The University of Tokyo, JP) \n
+Hirofumi Notsu (Kanazawa University, JP, Chair) \n
+Juan-Pablo Ortega (Nanyang Technological University, SG) \n
+Julius Fergy Rabago (Kanazawa University, JP) 
 
 
 
