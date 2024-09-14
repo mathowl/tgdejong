@@ -58,6 +58,21 @@ Hirofumi Notsu (Kanazawa University, JP, Chair) <br>
 Juan-Pablo Ortega (Nanyang Technological University, SG) <br>
 Julius Fergy Rabago (Kanazawa University, JP) 
 
+<h2> Modeling and Numerical Analysis of Nonlinear Phenomena (MNANP2025) </h2>
+
+**Date: March 17-21**
+**Location:** Kyoto
+**Registration:** [Website](https://jftrabago.github.io/MNANP2025/)
+
+MNANP2025 is a workshop dedicated to the Modeling and Numerical Analysis of Nonlinear Phenomena, aimed at showcasing the latest research advancements and developments in this dynamic field. The workshop will emphasize practical applications and encompass a broad range of topics, including nonlinear partial differential equations, complex fluids and materials, viscoelasticity, moving boundaries, among others. Leading experts will present their findings, while interactive sessions will facilitate collaboration and the exchange of knowledge. Participants will gain valuable insights into mathematical frameworks and computational methodologies for tackling complex challenges across various disciplines such as physics, biology, and engineering.
+
+**Organizers:**
+
+Thomas Geert de Jong  (Kanazawa University, JP) <br>
+Masato Kimura  (Kanazawa University, JP) <br>
+Hirofumi Notsu  (Kanazawa University, JP) <br>
+Julius Fergy Rabago  (Kanazawa University, JP) <br>
+Koya Sakakibara  (Kanazawa University, JP) 
 
 
 
