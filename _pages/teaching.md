@@ -12,9 +12,12 @@ October 23-24: **Dynamics of multicellular systems and applications in machine l
 This meeting will bring together quantitative biologists, mathematicians, physicists, and computer scientists to 
 
 <ul>
-    <li> explore how cells coordinate their behavior to carry out developmental programs and establish tissue-scale patterns
+    <li> explore how cells coordinate their behavior to carry out developmental programs and establish tissue-scale patterns 
+    </li>
     <li> present data-driven and machine learning approaches to discover mechanisms underlying the self-organization of multicellular systems 
-    <li> identify and harness multicellular systems as a next generation computational resource (via frameworks such as reservoir computing) 
+    </li>  
+    <li> identify and harness multicellular systems as a next generation computational resource (via frameworks such as reservoir computing)
+    </li> 
 </ul>
 
 Organizers: 
@@ -26,7 +29,7 @@ Matthew Smart (Flatiron Institute)
 Hayden Nunley (Flatiron Institute)
 Thomas de Jong (Kanazawa University)
 
-(site will up later today(=14 september))
+(site will be up later today(=14 september))
 
 Kyoto, February 11-13: **Differential Equations for Data Science (DEDS2025)**
 
