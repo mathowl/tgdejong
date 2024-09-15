@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-[Talk](https://www.mseri.me/mathcal/) at the Takens Seminar (Rijksuniversiteit Groningen)
+[Talk](https://www.mseri.me/mathcal/) at the Takens Seminar on Oscillator Networks (Rijksuniversiteit Groningen)
