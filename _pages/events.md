@@ -12,7 +12,7 @@ Dynamics of multicellular systems and applications in machine learning (MCML2024
 
 **Date:** October 23-24:  <br>
 **Location:**  Kanazawa    <br>
-**Registration link:** soon available (later today = September 14)<br>
+**Website link:** [link](https://sites.google.com/view/kanazawa24mcml)<br>
 
 This meeting will bring together quantitative biologists, mathematicians, physicists, and computer scientists to 
 
@@ -40,7 +40,7 @@ Thomas de Jong (Kanazawa University) <br>
 
 **Date:** February 11-13 <br>
 **Location:** Kyoto <br>
-**Registration link:** available in October <br>
+**Website link:** available in October <br>
 
 This conference is mainly devoted to new mathematical aspects on machine learning algorithms, big data analysis, and other topics in data science area, from a viewpoint of differential equations. In recent years, several interesting connections between differential equations and data science have been found and attract attention from researchers of differential equations. In this conference, we will gather such researchers of differential equations who have interest in data science and try to shed new light on mathematical foundations on the topics in machine learning/data science. <br>
 
@@ -62,7 +62,7 @@ Julius Fergy Rabago (Kanazawa University, JP)
 
 **Date:** March 17-21 <br>
 **Location:** Kanazawa <br>
-**Registration:** [Website](https://jftrabago.github.io/MNANP2025/) <br>
+**Website:** [Link](https://jftrabago.github.io/MNANP2025/) <br>
 
 MNANP2025 is a workshop dedicated to the Modeling and Numerical Analysis of Nonlinear Phenomena, aimed at showcasing the latest research advancements and developments in this dynamic field. The workshop will emphasize practical applications and encompass a broad range of topics, including nonlinear partial differential equations, complex fluids and materials, viscoelasticity, moving boundaries, among others. Leading experts will present their findings, while interactive sessions will facilitate collaboration and the exchange of knowledge. Participants will gain valuable insights into mathematical frameworks and computational methodologies for tackling complex challenges across various disciplines such as physics, biology, and engineering. <br>
 
