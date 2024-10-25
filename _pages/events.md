@@ -60,7 +60,7 @@ Julius Fergy Rabago (Kanazawa University, JP)
 
 <h2> Modeling and Numerical Analysis of Nonlinear Phenomena (MNANP2025) </h2>
 
-**Date:** March 17-21 <br>
+**Date:** In the week March 17-21 (exact dates TBA) <br>
 **Location:** Kanazawa <br>
 **Website:** [Link](https://jftrabago.github.io/MNANP2025/) <br>
 
