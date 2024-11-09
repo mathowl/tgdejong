@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Digital infrastructure for conference
+title: Open source digital infrastructure for conference
 date: 2024-11-06 08:51:00-0400
 description: building open source web-services for conferences
 tags: java opensource
@@ -12,5 +12,6 @@ For mid-size conferences (O(100)) it can be troublesome to build the digital inf
 
 I am trial running it for [this conference](https://sites.google.com/view/deds2025/home). As small things get continuously added I will release it after the conference. 
 
-The overall framework is to have participants complete registration through a google form which collects the data in a google sheet on which an app-script (=serverside java) sits. The app-script performs operations based on triggers that are activated in the google sheet via checkboxes by organizers. Here the automization includes generic personalized emails and personalized invitation letters. You can send these automized emails for free using google as long as your daily email quota is below 100. 
+The overall framework is to have participants complete registration through a google form which collects the data in a google sheet on which an app-script (=serverside java) sits. The app-script performs operations based on triggers that are activated in the google sheet via checkboxes by organizers. Here the automization includes generic personalized emails and personalized invitation letters. 
 
+The convenient thing is that all of this can be run through ordinary free-to-use google services. So essentially you can clone the files to your google-drive and you are ready to go.
