@@ -43,7 +43,7 @@ Past events: 2024
 Dynamics of multicellular systems and applications in machine learning (MCML2024)
 </h3>
 
-**Date:** October 23-24:  <br>
+**Date:** October 23-24  <br>
 **Location:**  Kanazawa    <br>
 **Website:** [link](https://sites.google.com/view/kanazawa24mcml)<br>
 
@@ -53,7 +53,7 @@ Dynamics of multicellular systems and applications in machine learning (MCML2024
 Mini-workshop: Populations of Oscillators, Organisms and Lineages (POOLs) part of DEDS-series
 </h4>
 
-**Date:** October 25:  <br>
+**Date:** October 25  <br>
 **Location:**  Kanazawa  <br>
 **Event info:** [link](https://mathowl.github.io/tgdejong/news/announcement_15/)<br>
 
