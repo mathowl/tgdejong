@@ -19,7 +19,7 @@ Abstract: During embryonic development, a fertilized egg gives rise to many cell
 
 
 
-17:00-18:00: T. A system of chiral self-propelled particles as a mathematical model of animals swimming with circular trajectories
+17:00-18:00: A system of chiral self-propelled particles as a mathematical model of animals swimming with circular trajectories
 (Ayumi Ozawa)
 
 Interacting oscillatory systems can self-organize to exhibit synchronous dynamics. When each system can move in space, their interaction may yield not only temporal but also spatial order. The larvae of the aquatic animal Ciona intestinalis show circular swimming patterns. While a larva animal can swim either clockwise or counterclockwise, a population of the larvae can show order in the swimming direction. Experimental observation has also indicated that the distribution of the larvae has a nontrivial spatial structure. However, it is unclear how they achieve such spatiotemporal order. In this talk, I will introduce a system of chiral self-propelled particles as a mathematical model of swimming Ciona larvae and report their collective dynamics. Although no attractive interaction between particles is explicitly incorporated, their interaction via angular velocity results in the clustering of particles. These results may contribute to understanding the mechanism by which Ciona larvae self-organize and also provide a novel strategy for designing active matter systems.
