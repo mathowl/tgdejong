@@ -29,14 +29,14 @@ As a first generation university graduate with a lower class background I very s
 
 **Current projects:**
 <ul>
-    <li> _Universal physical frameworks for reservoir computing:_ <a href ="https://www.kohei-nakajima.com/">Kohei Nakajima (U of Tokyo) </a>, <a href = "https://scheme.hn/"> Hirofumi Notsu (Kanazawa U) </a> </li>
-    <li> _Biomath (replicating oscillators):_ <a href="https://sites.google.com/edu.k.u-tokyo.ac.jp/ayumiozawa/home"> Ayumi Ozawa (JAMSTEC) </a>, <a href = "https://www.simonsfoundation.org/people/matthew-smart/"> Matthew Smart (Flatiron Institute)</a>, Hayden Nunley (Flatiron Institute), Ahmad Mohiuddin (Kanazawa U),  Oussama Ounissi (Kanazawa U)</li>
-    <li> _Reservoir computing (lyapunov exponents for high-dimensional systems):_ <a href = "https://www.math.rug.nl/~alef/"> Alef Sterk (U of Groningen) </a> </li>
-    <li> _Pedestrian flow and swarms:_ <a href = "https://corbetta.phys.tue.nl/"> Alessandro Corbetta (TU Eindhoven)</a> </li>
-    <li> _Data science and Archeology:_ <a href ="https://www.tue.nl/en/research/researchers/krist-vaesen"> Krist Vaesen (TU Eindhoven) </a>, <a href="https://www.universiteitleiden.nl/en/staffmembers/fulco-scherjon"> Fulco Scherjon (Leiden U) </a>, Andrew Sorensen (Leiden U), Stan van Zon (U of Utrecht)</li>
-    <li> _Biomath (surface-bulk PDEs):_ <a href = "https://www.koondi.net/"> Koondanibha Mitra (TU Eindhoven) </a>, <a href = "https://antoinediez.gitlab.io/"> Antoine Diez (Kyoto U) </a>, Kharisma Surya Putri (Kanazawa U) </li>
-    <li> _Liquid reservoir computing:_ Cedric Caremel (U of Tokyo), <a href = "https://scheme.hn/"> Hirofumi Notsu (Kanazawa U) </a> </li>
-    <li> _Linear complexity reservoir computing:_ <a href = "https://scheme.hn/"> Hirofumi Notsu (Kanazawa U) </a>, <a href ="https://www.kohei-nakajima.com/">Kohei Nakajima (U of Tokyo) </a>, Ahmad Mohiuddin (Kanazawa U),  Oussama Ounissi (Kanazawa U) </li>
+    <li> Universal physical frameworks for reservoir computing: <a href ="https://www.kohei-nakajima.com/">Kohei Nakajima (U of Tokyo) </a>, <a href = "https://scheme.hn/"> Hirofumi Notsu (Kanazawa U) </a> </li>
+    <li> Biomath (replicating oscillators): <a href="https://sites.google.com/edu.k.u-tokyo.ac.jp/ayumiozawa/home"> Ayumi Ozawa (JAMSTEC) </a>, <a href = "https://www.simonsfoundation.org/people/matthew-smart/"> Matthew Smart (Flatiron Institute)</a>, Hayden Nunley (Flatiron Institute), Ahmad Mohiuddin (Kanazawa U),  Oussama Ounissi (Kanazawa U)</li>
+    <li> Reservoir computing (lyapunov exponents for high-dimensional systems): <a href = "https://www.math.rug.nl/~alef/"> Alef Sterk (U of Groningen) </a> </li>
+    <li> Pedestrian flow and swarms: <a href = "https://corbetta.phys.tue.nl/"> Alessandro Corbetta (TU Eindhoven)</a> </li>
+    <li> Data science and Archeology: <a href ="https://www.tue.nl/en/research/researchers/krist-vaesen"> Krist Vaesen (TU Eindhoven) </a>, <a href="https://www.universiteitleiden.nl/en/staffmembers/fulco-scherjon"> Fulco Scherjon (Leiden U) </a>, Andrew Sorensen (Leiden U), Stan van Zon (U of Utrecht)</li>
+    <li> Biomath (surface-bulk PDEs): <a href = "https://www.koondi.net/"> Koondanibha Mitra (TU Eindhoven) </a>, <a href = "https://antoinediez.gitlab.io/"> Antoine Diez (Kyoto U) </a>, Kharisma Surya Putri (Kanazawa U) </li>
+    <li> Liquid reservoir computing: Cedric Caremel (U of Tokyo), <a href = "https://scheme.hn/"> Hirofumi Notsu (Kanazawa U) </a> </li>
+    <li> Linear complexity reservoir computing: <a href = "https://scheme.hn/"> Hirofumi Notsu (Kanazawa U) </a>, <a href ="https://www.kohei-nakajima.com/">Kohei Nakajima (U of Tokyo) </a>, Ahmad Mohiuddin (Kanazawa U),  Oussama Ounissi (Kanazawa U) </li>
 </ul>
 
 Collaborators not mentioned above:  <a href ="https://www.math.rug.nl/~broer/">Henk Broer</a>, <a href="https://sites.google.com/view/nozomiakashi/">Nozomi Akashi</a>, <a href="https://researchmap.jp/tomohiro-taniguchi">Tomohiro Taniguchi</a>, <a href="https://www.tue.nl/en/research/researchers/georg-prokert">Georg Prokert</a>, <a href="https://www.few.vu.nl/~jhulshof/">Joost Hulshof</a>, <a href="https://sites.google.com/site/pjpvmeurs/">Patrick van Meurs</a>  
