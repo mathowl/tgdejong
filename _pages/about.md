@@ -23,7 +23,7 @@ I am a mathematician. But I dabble a lot in the applied sciences. So far my appl
 
 For my research I mainly use Python. I have worked on a couple of mechanical and material science problems in collaboration with industry, and I am always on the look for new collaborations.
 
-I am an organizer of the Kanazawa Analysis Seminar [KAS](http://polaris.s.kanazawa-u.ac.jp/kas/), Differential Equations for Data Science seminar [DEDS](https://scheme.hn/deds/) and Continuum Mechanics Focusing on Singularities [CoMFoS](https://sites.google.com/view/comfos23/home). I am a member of the [Reservoir Computing seminar group](https://www.kohei-nakajima.com/rc-seminar-group) and a member of the Dutch Royal Mathematical Society (KWG).
+I am an organizer of the Kanazawa Analysis Seminar [KAS](http://polaris.s.kanazawa-u.ac.jp/kas/) and Differential Equations for Data Science seminar [DEDS](https://scheme.hn/deds/). I am a member of the [Reservoir Computing seminar group](https://www.kohei-nakajima.com/rc-seminar-group) and a member of the Dutch Royal Mathematical Society (KWG).
 
 As a first generation university graduate with a lower class background I very strongly believe in a grass-roots approach to science. I am very supportive of open-source. I think that a delta-function perspective on research is outdated in the age of model-free methods.  
 
