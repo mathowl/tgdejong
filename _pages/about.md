@@ -44,7 +44,7 @@ Students I am supervising or have supervised: Elsa Bernholm (M2, Karlstad Univer
 
 **Teaching:** 
 <ul>
-  <li>2025 Q1: Adjunct Assistant Professor (Temple U JP) - Algebra  </li>
-  <li>2024 Q4: Lecturer (Kanazawa U) - Analysis 3B (PDEs) (Book: 偏微分方程式入門 by　神保秀一) </li>
-  <li>2023 Q3: Lecturer (Kanazawa U) - Analysis 3A (ODEs) (Book: 微分方程式 by 長瀬道弘)</li>
+  <li>2025 Q1(Spring): Adjunct Assistant Professor (Temple U JP) - Algebra  </li>
+  <li>2024 Q4(Winter): Lecturer (Kanazawa U) - Analysis 3B (PDEs) (Book: 偏微分方程式入門 by　神保秀一) </li>
+  <li>2023 Q3(Autumn): Lecturer (Kanazawa U) - Analysis 3A (ODEs) (Book: 微分方程式 by 長瀬道弘)</li>
 </ul>
