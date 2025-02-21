@@ -23,19 +23,19 @@ I am a mathematician. But I dabble a lot in the applied sciences. So far my appl
 
 For my research I mainly use Python. I have worked on a couple of mechanical and material science problems in collaboration with industry, and I am always on the look for new collaborations.
 
-I am an organizer of the Kanazawa Analysis Seminar [KAS](http://polaris.s.kanazawa-u.ac.jp/kas/) and Differential Equations for Data Science seminar [DEDS](https://scheme.hn/deds/). I am a member of the [Reservoir Computing seminar group](https://www.kohei-nakajima.com/rc-seminar-group) and a member of the Dutch Royal Mathematical Society (KWG).
+I am an organizer of the Kanazawa Analysis Seminar [KAS](http://polaris.s.kanazawa-u.ac.jp/kas/) and Differential Equations for Data Science seminar [DEDS](https://scheme.hn/deds/), if you want to join our seminar mailingslist click [here](https://groups.google.com/forum/#!forum/deds-ku/join). I am a member of the [Reservoir Computing seminar group](https://www.kohei-nakajima.com/rc-seminar-group).
 
 As a first generation university graduate with a lower class background I very strongly believe in a grass-roots approach to science. I am very supportive of open-source. I think that a delta-function perspective on research is outdated in the age of model-free methods.  
 
 **Current projects:**
 <ul>
-    <li> Universal physical frameworks for reservoir computing: <a href ="https://www.kohei-nakajima.com/">Kohei Nakajima (U of Tokyo) </a>, <a href = "https://scheme.hn/"> Hirofumi Notsu (Kanazawa U) </a> </li>
+    <li> Harnessing omnipresent oscillators networks as computational resource: <a href ="https://www.kohei-nakajima.com/">Kohei Nakajima (U of Tokyo) </a>, <a href = "https://scheme.hn/"> Hirofumi Notsu (Kanazawa U) </a> </li>
     <li> Biomath (replicating oscillators): <a href="https://sites.google.com/edu.k.u-tokyo.ac.jp/ayumiozawa/home"> Ayumi Ozawa (JAMSTEC) </a>, <a href = "https://www.simonsfoundation.org/people/matthew-smart/"> Matthew Smart (Flatiron Institute)</a>, Hayden Nunley (Flatiron Institute), Ahmad Mohiuddin (Kanazawa U),  Oussama Ounissi (Kanazawa U)</li>
     <li> Pedestrian flow and swarms: <a href = "https://corbetta.phys.tue.nl/"> Alessandro Corbetta (TU Eindhoven)</a> </li>
     <li> Data science and Archeology: <a href ="https://www.tue.nl/en/research/researchers/krist-vaesen"> Krist Vaesen (TU Eindhoven) </a>, <a href="https://www.universiteitleiden.nl/en/staffmembers/fulco-scherjon"> Fulco Scherjon (Leiden U) </a>, Andrew Sorensen (Leiden U), Stan van Zon (U of Utrecht)</li>
     <li> Biomath (surface-bulk PDEs): <a href = "https://www.koondi.net/"> Koondanibha Mitra (TU Eindhoven) </a>, <a href = "https://antoinediez.gitlab.io/"> Antoine Diez (Kyoto U) </a>, Kharisma Surya Putri (Kanazawa U) </li>
     <li> Liquid reservoir computing: Cedric Caremel (U of Tokyo), <a href = "https://scheme.hn/"> Hirofumi Notsu (Kanazawa U) </a> </li>
-    <li> Linear complexity reservoir computing: <a href = "https://scheme.hn/"> Hirofumi Notsu (Kanazawa U) </a>, <a href ="https://www.kohei-nakajima.com/">Kohei Nakajima (U of Tokyo) </a>, Ahmad Mohiuddin (Kanazawa U),  Oussama Ounissi (Kanazawa U) </li>
+    <li> Long-term memory of reservoir computing: <a href = "https://scheme.hn/"> Hirofumi Notsu (Kanazawa U) </a>, <a href ="https://www.kohei-nakajima.com/">Kohei Nakajima (U of Tokyo) </a>, Ahmad Mohiuddin (Kanazawa U),  Oussama Ounissi (Kanazawa U) </li>
 </ul>
 
 Collaborators not mentioned above:  <a href ="https://www.math.rug.nl/~broer/">Henk Broer (U of Groningen)</a>, <a href="https://sites.google.com/view/nozomiakashi/">Nozomi Akashi (Kyoto U)</a>, <a href="https://researchmap.jp/tomohiro-taniguchi">Tomohiro Taniguchi (AIST)</a>, <a href="https://www.tue.nl/en/research/researchers/georg-prokert">Georg Prokert (TU Eindhoven)</a>, <a href="https://www.few.vu.nl/~jhulshof/">Joost Hulshof (VU Amsterdam)</a>, <a href="https://sites.google.com/site/pjpvmeurs/">Patrick van Meurs (Kanazawa U)</a>, <a href = "https://www.math.rug.nl/~alef/"> Alef Sterk (U of Groningen) </a>
