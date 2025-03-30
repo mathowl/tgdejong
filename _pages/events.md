@@ -30,7 +30,7 @@ Past events: 2025
 
 <h3> Modeling and Numerical Analysis of Nonlinear Phenomena (MNANP2025) </h3>
 
-**Date:** In the week March 16-17 <br>
+**Date:** March 16-17 <br>
 **Location:** Kanazawa <br>
 **Website:** [link](https://jftrabago.github.io/MNANP2025/) <br>
 
