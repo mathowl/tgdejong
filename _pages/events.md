@@ -7,9 +7,15 @@ nav: true
 nav_order: 4
 ---
 
-
 <h1>
 Upcoming events: 2025
+</h1>
+
+
+<hr />
+
+<h1>
+Past events: 2025
 </h1>
 
 <hr />
@@ -24,7 +30,7 @@ Upcoming events: 2025
 
 <h3> Modeling and Numerical Analysis of Nonlinear Phenomena (MNANP2025) </h3>
 
-**Date:** In the week March 17-21 (exact dates TBA) <br>
+**Date:** In the week March 16-17 <br>
 **Location:** Kanazawa <br>
 **Website:** [link](https://jftrabago.github.io/MNANP2025/) <br>
 
