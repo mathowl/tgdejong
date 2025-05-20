@@ -7,6 +7,10 @@ nav: true
 nav_order: 5
 ---
 
+If you are interested in joining any of these study groups please send me an email
+
+
+
 <h2> Dynamical systems study group </h2>
 
 Weekly at Wednesday 15:00-16:30 JST (Online) 
@@ -26,9 +30,6 @@ Weekly at Wednesday 15:00-16:30 JST (Online)
         {% include figure.html path="assets/img/2025DS_SG.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
-If you are interested in joining please contact me
-
 
 
 <h2> Differential Equations for Data Science study group: TBA </h2>
