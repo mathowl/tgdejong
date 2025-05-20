@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /events/
+permalink: /community/
 title: Community
 description: 
 nav: true
