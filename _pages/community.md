@@ -2,7 +2,7 @@
 layout: page
 permalink: /community/
 title: Community
-description: 
+description: open groups for all
 nav: true
 nav_order: 5
 ---
@@ -23,7 +23,7 @@ Weekly at Wednesday 15:00-16:30 JST (Online)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/2025DS_SG.PNG" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/2025DS_SG.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
