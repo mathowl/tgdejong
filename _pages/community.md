@@ -2,7 +2,7 @@
 layout: page
 permalink: /community/
 title: Community
-description: open groups for all
+description: open study groups
 nav: true
 nav_order: 5
 ---
