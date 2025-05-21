@@ -13,7 +13,9 @@ If you are interested in joining any of these study groups please send me an ema
 
 <h2> Dynamical systems study group </h2>
 
-Weekly at Wednesday 15:00-16:30 JST (Online) 
+Current topic: Infinite dimensional dynamical systems
+
+Weekly on Wednesday at 15:00-16:30 JST (Online) 
 
 **Members:**
 <ul>
