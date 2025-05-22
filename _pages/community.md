@@ -20,7 +20,7 @@ Weekly on Wednesday at 15:00-16:30 JST (Online)
 **Members:**
 <ul>
     <li>Hirofumi Notsu</li>
-    <li>Muhammad Zaman</li>   
+    <li>Mohammad Zaman</li>   
     <li>Ahmad Mohiuddin</li>
     <li>Yuma Nakamura</li>
     <li>Sahat Pandagotan Nainggolan</li>
