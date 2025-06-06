@@ -39,12 +39,19 @@ As a first generation university graduate with a lower class background I very s
     <li> SINDy for noisy data: <a href = "https://scheme.hn/"> Hirofumi Notsu (Kanazawa U) </a>, Yuma Nakamura (Kanazawa U), Doris Voina (U of Washington) </li>
 </ul>
 
+**Shelved projects:** (looking for collaborators to resolve obstacles, pls contact me if you are interested)
+
+<ul>
+    <li> Data science and Archeology: <a href ="https://www.tue.nl/en/research/researchers/krist-vaesen"> Krist Vaesen (TU Eindhoven) </a>, <a href="https://www.universiteitleiden.nl/en/staffmembers/fulco-scherjon"> Fulco Scherjon (Leiden U) </a>, Andrew Sorensen (Leiden U), Stan van Zon (U of Utrecht)</li>
+</ul>
+
 Collaborators not mentioned above:  <a href ="https://www.math.rug.nl/~broer/">Henk Broer (U of Groningen)</a>, <a href="https://sites.google.com/view/nozomiakashi/">Nozomi Akashi (Kyoto U)</a>, <a href="https://researchmap.jp/tomohiro-taniguchi">Tomohiro Taniguchi (AIST)</a>, <a href="https://www.tue.nl/en/research/researchers/georg-prokert">Georg Prokert (TU Eindhoven)</a>, <a href="https://www.few.vu.nl/~jhulshof/">Joost Hulshof (VU Amsterdam)</a>, <a href="https://sites.google.com/site/pjpvmeurs/">Patrick van Meurs (Kanazawa U)</a>, <a href = "https://www.math.rug.nl/~alef/"> Alef Sterk (U of Groningen) </a>
 
 Students I am supervising or have supervised: Elsa Bernholm (M2, Karlstad University), Yuma Nakamura (D1, Kanazawa University), Kharisma Putri (D2, Kanazawa University), Yue Shu (M1, Kanazawa University), Oussama Ounissi (D1, Kanazawa University), Ahmad Mohiuddin (M1, Kanazawa University) 
 
 **Teaching:** 
 <ul>
+  <li>2025 Q3(Autumn): Adjunct Assistant Professor (Temple U JP) - Algebra  </li>
   <li>2025 Q1(Spring): Adjunct Assistant Professor (Temple U JP) - Algebra  </li>
   <li>2024 Q4(Winter): Lecturer (Kanazawa U) - Analysis 3B (PDEs) (Book: 偏微分方程式入門 by　神保秀一) </li>
   <li>2023 Q3(Autumn): Lecturer (Kanazawa U) - Analysis 3A (ODEs) (Book: 微分方程式 by 長瀬道弘)</li>
