@@ -48,20 +48,20 @@ Collaborators not mentioned above:  <a href ="https://www.math.rug.nl/~broer/">H
 
 **Students:** Currently I am supervising: 
 <ul>
-  <li> Yuma Nakamura (Phd student)
-  <li> Kharisma Surya Putri (Phd student)
-  <li> Oussama Ounissi (Phd student)
-  <li> Sahat Pandapotan Nainggolan (Phd student)
-  <li> Yuriko Fujihara (Master student)
-  <li> Ahmad Mohiuddin (Master student)
-  <li> Yue shu (Master student)
+  <li> Yuma Nakamura (Phd student) </li>
+  <li> Kharisma Surya Putri (Phd student) </li>
+  <li> Oussama Ounissi (Phd student) </li>
+  <li> Sahat Pandapotan Nainggolan (Phd student) </li>
+  <li> Yuriko Fujihara (Master student) </li>
+  <li> Ahmad Mohiuddin (Master student) </li>
+  <li> Yue shu (Master student) </li>
 <ul>
 
 Visiting students:
 <ul>
-  <li> Filip Voženílek (Czech TU, Master)
-  <li> Muhammad Noman Tabassum (U L'Aquila/Karlstad U, Master)
-  <li> Elsa Bernholm (Karlstad U, Master student)
+  <li> Filip Voženílek (Czech TU, Master) </li>
+  <li> Muhammad Noman Tabassum (U L'Aquila/Karlstad U, Master) </li>
+  <li> Elsa Bernholm (Karlstad U, Master student) </li>
 <ul>
 
 **Teaching:** 
