@@ -46,7 +46,7 @@ As a first generation university graduate with a lower class background I very s
 
 Collaborators not mentioned above:  <a href ="https://www.math.rug.nl/~broer/">Henk Broer (U of Groningen)</a>, <a href="https://sites.google.com/view/nozomiakashi/">Nozomi Akashi (Kyoto U)</a>, <a href="https://researchmap.jp/tomohiro-taniguchi">Tomohiro Taniguchi (AIST)</a>, <a href="https://www.tue.nl/en/research/researchers/georg-prokert">Georg Prokert (TU Eindhoven)</a>, <a href="https://www.few.vu.nl/~jhulshof/">Joost Hulshof (VU Amsterdam)</a>, <a href="https://sites.google.com/site/pjpvmeurs/">Patrick van Meurs (Kanazawa U)</a>, <a href = "https://www.math.rug.nl/~alef/"> Alef Sterk (U of Groningen) </a>
 
-Current students I am supervising: 
+**Students:** Currently I am supervising: 
 <ul>
   <li> Yuma Nakamura (Phd student)
   <li> Kharisma Surya Putri (Phd student)
@@ -59,9 +59,9 @@ Current students I am supervising:
 
 Visiting students:
 <ul>
-  <li> Filip Voženílek (Czech Technical University in Prague, Master)
-  <li> Muhammad Noman Tabassum (U. L'Aquila/Karlstad U., Master)
-  <li> Elsa Bernholm ( Karlstad University, Master student)
+  <li> Filip Voženílek (Czech TU, Master)
+  <li> Muhammad Noman Tabassum (U L'Aquila/Karlstad U, Master)
+  <li> Elsa Bernholm (Karlstad U, Master student)
 <ul>
 
 **Teaching:** 
