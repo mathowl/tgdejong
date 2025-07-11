@@ -10,7 +10,7 @@ nav_order: 5
 
 <h2> Differential Equations for Data Science Seminar</h2>
 
-You can join the mailings list through this link:[DEDS](https://scheme.hn/deds/). Seminars are also posted over [here](https://scheme.hn/deds/).  
+You can join the mailings list through [this link](https://groups.google.com/forum/#!forum/deds-ku/join). Seminars are also posted over [here](https://scheme.hn/deds/).  
 
 
 <h2> Dynamical systems study group </h2>
