@@ -55,14 +55,14 @@ Collaborators not mentioned above:  <a href ="https://www.math.rug.nl/~broer/">H
   <li> Yuriko Fujihara (Master student) </li>
   <li> Ahmad Mohiuddin (Master student) </li>
   <li> Yue Shu (Master student) </li>
-<ul>
+</ul>
 
 Visiting students:
 <ul>
   <li> Filip Voženílek (Czech TU, Master) Summer 2025 </li>
   <li> Muhammad Noman Tabassum (U L'Aquila/Karlstad U, Master) Summer 2025</li>
   <li> Elsa Bernholm (Karlstad U, Master student) Winter 2023 </li>
-<ul>
+</ul>
 
 **Teaching:** 
 <ul>
