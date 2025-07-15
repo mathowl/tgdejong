@@ -7,8 +7,10 @@ nav: true
 nav_order: 5
 ---
 
-If you are interested in joining any of these study groups please send me an email
 
+<h2> Differential Equations for Data Science Seminar</h2>
+
+You can join the mailings list through [this link](https://groups.google.com/forum/#!forum/deds-ku/join). Seminars are also posted over [here](https://scheme.hn/deds/).  
 
 
 <h2> Dynamical systems study group </h2>
@@ -16,6 +18,8 @@ If you are interested in joining any of these study groups please send me an ema
 Current topic: Infinite dimensional dynamical systems
 
 Weekly on Wednesday at 15:00-16:30 JST (Online) 
+
+If you are interested in joining this study groups please send me an email
 
 **Members:**
 <ul>
