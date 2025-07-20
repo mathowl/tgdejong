@@ -24,7 +24,8 @@ If you are interested in joining this study groups please send me an email
 **Members:**
 <ul>
     <li>Hirofumi Notsu</li>
-    <li>Mohammad Zaman</li>   
+    <li>Mohammad Zaman</li>
+    <li> Oussama Ounissi</li>   
     <li>Ahmad Mohiuddin</li>
     <li>Yuma Nakamura</li>
     <li>Sahat Pandagotan Nainggolan</li>
