@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 
-date: 2025-08-21
+date: 2025-08-1
 inline: true
 related_posts: false
 ---
