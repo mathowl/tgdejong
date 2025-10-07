@@ -48,15 +48,14 @@ Collaborators not mentioned above:  <a href ="https://www.math.rug.nl/~broer/">H
 
 **Touring calendar (in-person talks,seminars etc. maintained since Summer 2025):**
 
-<u1>
+<ul>
   <li>2026-01-07: Statistische Physik weicher Materie und biologischer Systeme Seminar, TU Berlin Seminar (invitation of Prof. Holger Stark)</li>
   <li>2026-TBD: Max Planck Institute PKS Seminar, Dresden (invitation of Dr. Edmilson Roque dos Santos)</li>
   <li>2025-10-28: Duke Kunshan Mathematics Seminar, Kunshan (invitation of Prof. Konstantinos Efstathiou)</li>
   <li>2025-10-25: International Workshop on Modeling, Analysis and Computation with Application in Economics and AI, Shanghai School of Economics (invitation of Prof. Jiang Yu)</li>  
   <li>2025-10-02: DynamIC Seminar, Imperial College (invitation of Prof. Jeroen Lamb) </li>
   <li>2025-07-29: ECC11, Tokyo U </li>
-
-</u1>
+</ul>
 
 
 **Students:** Currently I am supervising (for Phd/Master thesis): 
