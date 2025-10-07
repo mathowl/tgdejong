@@ -53,7 +53,7 @@ Collaborators not mentioned above:  <a href ="https://www.math.rug.nl/~broer/">H
   <li>2025-10-28: Duke Kunshan Mathematics Seminar, Kunshan (invitation of Prof. Konstantinos Efstathiou)</li>
   <li>2025-10-25: International Workshop on Modeling, Analysis and Computation with Application in Economics and AI, Shanghai School of Economics (invitation of Prof. Jiang Yu)</li>  
   <li>2025-10-02: DynamIC Seminar, Imperial College (invitation of Prof. Jeroen Lamb) </li>
-  <li>2025-07-29: ECC11, Tokyo U
+  <li>2025-07-29: ECC11, Tokyo U </li>
 </ul>
 
 **Students:** Currently I am supervising (for Phd/Master thesis): 
