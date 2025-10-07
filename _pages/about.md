@@ -58,7 +58,7 @@ Collaborators not mentioned above:  <a href ="https://www.math.rug.nl/~broer/">H
 </ul>
 
 
-**Students:** Currently I am supervising (for Phd/Master thesis): 
+**Students:** Currently I am supervising: 
 <ul>
   <li> Yuma Nakamura (Phd student) </li>
   <li> Kharisma Surya Putri (Phd student) </li>
