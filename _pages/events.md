@@ -11,6 +11,19 @@ nav_order: 4
 Upcoming events: 2025
 </h1>
 
+<hr />
+
+
+<h1>
+Upcoming events: 2026
+</h1>
+
+<h3> Mini-workshop Kanazawa U and Imperial college  (KIC2026) </h3>
+(Satellite workshop DEDS2026)
+
+**Date:** February 7 <br>
+**Location:** Kanazawa <br>
+
 
 <hr />
 

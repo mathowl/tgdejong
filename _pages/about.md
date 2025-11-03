@@ -19,7 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a mathematician. But I dabble a lot in the applied sciences. So far my application domains include AI, celestial mechanics, cell biology. My mathematical expertise mainly concerns dynamical systems and lately I am very drawn to data science and neural network problems. Currently, my main focus is reservoir computing. I am in the Notsu-lab at the Faculty of Mathematics and Physics in Kanazawa University. My research is funded by CREST.
+I am an applied mathematician that computes dynamics and uses dynamics to compute. The first topic is related to biomechanical models as well as a dynamics driven perspective on AI. The second topic is my main focus and lies in the domain of physical reservoir computing which is a framework that utilizes natural physical phenomena to perform computations. 
+
+I am Postdoctoral researcher in the Notsu-lab at the Faculty of Mathematics and Physics in Kanazawa University. This position is funded by CREST. I also hold an Adjunct Assistant Professorship at Temple University Japan Campus. 
 
 For my research I mainly use Python. I have worked on a couple of mechanical and material science problems in collaboration with industry, and I am always on the look for new collaborations.
 
@@ -81,8 +83,9 @@ Visiting students:
 
 **Teaching:** 
 <ul>
-  <li>2025 Q3(Autumn): Adjunct Assistant Professor (Temple U JP) - Algebra  </li>
-  <li>2025 Q1(Spring): Adjunct Assistant Professor (Temple U JP) - Algebra  </li>
+  <li>2026 S1(Spring): Adjunct Assistant Professor (Temple U JP) - Algebra  </li>
+  <li>2025 S2(Autumn): Adjunct Assistant Professor (Temple U JP) - Algebra  </li>
+  <li>2025 S1(Spring): Adjunct Assistant Professor (Temple U JP) - Algebra  </li>
   <li>2024 Q4(Winter): Lecturer (Kanazawa U) - Analysis 3B (PDEs) (Book: 偏微分方程式入門 by　神保秀一) </li>
   <li>2023 Q3(Autumn): Lecturer (Kanazawa U) - Analysis 3A (ODEs) (Book: 微分方程式 by 長瀬道弘)</li>
 </ul>
