@@ -28,7 +28,7 @@ For my research I mainly use Python. I have worked on a couple of mechanical and
 
 <hr />
 <h4>
-My main position will end in March 2026 although I am in the loop for many jobs I still would be very grateful if you could contact me for any research job openings.
+My main position will end in March 2026 although I am in the loop for many jobs I still would be very grateful if you could contact me for any research job openings that fit my profile.
 </h4>
 <hr />
 
@@ -82,14 +82,14 @@ Collaborators not mentioned above:  <a href ="https://www.math.rug.nl/~broer/">H
     
 </ul>
 
-Visitors:
+**Visitors:**
 <ul>
-  <li> Eddie Nijholt (USP, Assistant Prof) Winter 2025 </li> 
-  <li> Filip Vozenilek (Czech TU, Master student) Summer 2025 </li>
-  <li> Muhammad Noman Tabassum (U L'Aquila/Karlstad U, Master student) Summer 2025</li>
-  <li> Kodanibha Mitra (TU Eindhoven, Assistant Prof) Spring 2025 </li>
-  <li> Hayden Nunley (Flatiron Inst., Assistant Prof), Matthew Smart (Flatiron Inst., Assistant Prof), Autumn 2024 </li>
-  <li> Elsa Bernholm (Karlstad U, Master student) Winter 2023 </li>
+  <li> Eddie Nijholt (USP, Assistant Prof), Winter 2025 </li> 
+  <li> Filip Vozenilek (Czech TU, Master student), Summer 2025 </li>
+  <li> Muhammad Noman Tabassum (U L'Aquila/Karlstad U, Master student), Summer 2025</li>
+  <li> Kodanibha Mitra (TU Eindhoven, Assistant Prof), Spring 2025 </li>
+  <li> Hayden Nunley (Flatiron Inst., Assistant Prof), Matthew Smart (Flatiron Inst., Dr.), Autumn 2024 </li>
+  <li> Elsa Bernholm (Karlstad U, Master student), Winter 2023 </li>
 </ul>
 
 **Teaching:** 
