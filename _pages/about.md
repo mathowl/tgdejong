@@ -33,7 +33,7 @@ My main position will end in March 2026 although I am in the loop for many jobs 
 <hr />
 
 
-I am an organizer of the Kanazawa Analysis Seminar [KAS](http://polaris.s.kanazawa-u.ac.jp/kas/) and Differential Equations for Data Science seminar [DEDS](https://scheme.hn/deds/), if you want to join our seminar mailingslist click [here](https://groups.google.com/forum/#!forum/deds-ku/join). I am a member of the [Reservoir Computing seminar group](https://www.kohei-nakajima.com/rc-seminar-group).
+I am an organizer of the Kanazawa Analysis Seminar [KAS](http://polaris.s.kanazawa-u.ac.jp/kas/) and Differential Equations for Data Science seminar [DEDS](https://scheme.hn/deds/), if you want to join our seminar mailingslist click [here](https://groups.google.com/forum/#!forum/deds-ku/join).
 
 As a first generation university graduate with a lower class background I very strongly believe in a grass-roots approach to science. I am very supportive of open-source. I think that a delta-function perspective on research is outdated in the age of model-free methods.  
 
@@ -88,7 +88,7 @@ Visitors:
   <li> Filip Vozenilek (Czech TU, Master student) Summer 2025 </li>
   <li> Muhammad Noman Tabassum (U L'Aquila/Karlstad U, Master student) Summer 2025</li>
   <li> Kodanibha Mitra (TU Eindhoven, Assistant Prof) Spring 2025 </li>
-  <li> Hayden Nunley (Flatiron Inst., Assistant Prof), Matthew Smart (Flatiron Inst., Assistant Prof), Autumn 2024 
+  <li> Hayden Nunley (Flatiron Inst., Assistant Prof), Matthew Smart (Flatiron Inst., Assistant Prof), Autumn 2024 </li>
   <li> Elsa Bernholm (Karlstad U, Master student) Winter 2023 </li>
 </ul>
 
