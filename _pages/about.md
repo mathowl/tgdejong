@@ -21,13 +21,14 @@ social: false  # includes social icons at the bottom of the page
 
 I am an applied mathematician that computes dynamics and uses dynamics to compute. The first topic is related to biomechanical models as well as a dynamics driven perspective on AI. The second topic is my main focus and lies in the domain of physical reservoir computing which is a framework that utilizes natural physical phenomena to perform computations. 
 
-<h3>
-My main position will end in March 2026 I would be very grateful if you could contact me for future research opportunities.
-</h3>
-
 I am Postdoctoral researcher in the Notsu-lab at the Faculty of Mathematics and Physics in Kanazawa University. This position is funded by CREST. I also hold an Adjunct Assistant Professorship (part-time lecturing) at Temple University Japan Campus. 
 
 For my research I mainly use Python. I have worked on a couple of mechanical and material science problems in collaboration with industry, and I am always on the look for new collaborations.
+
+<h4>
+My main position will end in March 2026 although I am in the loop for many jobs I still would be very grateful if you could contact me for any research job openings.
+</h4>
+
 
 I am an organizer of the Kanazawa Analysis Seminar [KAS](http://polaris.s.kanazawa-u.ac.jp/kas/) and Differential Equations for Data Science seminar [DEDS](https://scheme.hn/deds/), if you want to join our seminar mailingslist click [here](https://groups.google.com/forum/#!forum/deds-ku/join). I am a member of the [Reservoir Computing seminar group](https://www.kohei-nakajima.com/rc-seminar-group).
 
@@ -78,10 +79,13 @@ Collaborators not mentioned above:  <a href ="https://www.math.rug.nl/~broer/">H
     
 </ul>
 
-Visiting students:
+Visitors:
 <ul>
-  <li> Filip Vozenilek (Czech TU, Master) Summer 2025 </li>
-  <li> Muhammad Noman Tabassum (U L'Aquila/Karlstad U, Master) Summer 2025</li>
+  <li> Eddie Nijholt (USP, Assistant Prof) Winter 2025 </li> 
+  <li> Filip Vozenilek (Czech TU, Master student) Summer 2025 </li>
+  <li> Muhammad Noman Tabassum (U L'Aquila/Karlstad U, Master student) Summer 2025</li>
+  <li> Kodanibha Mitra (TU Eindhoven, Assistant Prof) Spring 2025 </li>
+  <li> Hayden Nunley (Flatiron Inst., Assistant Prof), Matthew Smart (Flatiron Inst., Assistant Prof), Autumn 2024 
   <li> Elsa Bernholm (Karlstad U, Master student) Winter 2023 </li>
 </ul>
 
