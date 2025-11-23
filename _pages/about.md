@@ -40,7 +40,7 @@ As a first generation university graduate with a lower class background I very s
 **Current projects:**
 <ul>
     <li> Harnessing omnipresent oscillators networks as computational resource: <a href ="https://www.kohei-nakajima.com/">Kohei Nakajima (U of Tokyo) </a>, <a href = "https://scheme.hn/"> Hirofumi Notsu (Kanazawa U) </a> </li>
-    <li> Biomath (replicating oscillators): <a href="https://sites.google.com/edu.k.u-tokyo.ac.jp/ayumiozawa/home"> Ayumi Ozawa (JAMSTEC) </a>, <a href = "https://www.simonsfoundation.org/people/matthew-smart/"> Matthew Smart (Flatiron Institute)</a>, <a href="https://www.simonsfoundation.org/people/hayden-nunley/"> Hayden Nunley (Flatiron Institute) </a>, Ahmad Mohiuddin (Kanazawa U),  Oussama Ounissi (Kanazawa U)</li>
+    <li> Biomath (replicating oscillators): <a href="https://sites.google.com/edu.k.u-tokyo.ac.jp/ayumiozawa/home">Ayumi Ozawa (JAMSTEC) </a>, <a href = "https://www.simonsfoundation.org/people/matthew-smart/"> Matthew Smart (Flatiron Institute)</a>, <a href="https://www.simonsfoundation.org/people/hayden-nunley/"> Hayden Nunley (Flatiron Institute) </a>, Ahmad Mohiuddin (Kanazawa U),  Oussama Ounissi (Kanazawa U)</li>
     <li> Pedestrian flow and swarms: <a href = "https://corbetta.phys.tue.nl/"> Alessandro Corbetta (TU Eindhoven)</a> </li>
     <li> Biomath (surface-bulk PDEs): <a href = "https://www.koondi.net/"> Koondanibha Mitra (TU Eindhoven) </a>, <a href = "https://antoinediez.gitlab.io/"> Antoine Diez (Kyoto U) </a>, Kharisma Surya Putri (Kanazawa U) </li>
     <li> Liquid reservoir computing: Cedric Caremel (U of Tokyo), <a href = "https://scheme.hn/"> Hirofumi Notsu (Kanazawa U) </a> </li>
