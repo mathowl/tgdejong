@@ -28,7 +28,7 @@ For my research I mainly use Python. I have worked on a couple of mechanical and
 
 <hr />
 <h4>
-My main position will end in March 2026 although I am in the loop for many jobs I still would be very grateful if you could contact me for any research job openings that fit my profile.
+My main position will end in March 2026 although I am in the loop for many jobs I still would be very grateful if you could contact me for any research job openings.
 </h4>
 <hr />
 
