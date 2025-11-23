@@ -21,7 +21,7 @@ social: false  # includes social icons at the bottom of the page
 
 I am an applied mathematician that computes dynamics and uses dynamics to compute. The first topic is related to biomechanical models as well as a dynamics driven perspective on AI. The second topic is my main focus and lies in the domain of physical reservoir computing which is a framework that utilizes natural physical phenomena to perform computations. 
 
-I am Postdoctoral researcher in the Notsu-lab at the Faculty of Mathematics and Physics in Kanazawa University. This position is funded by CREST. I also hold an Adjunct Assistant Professorship (part-time lecturing) at Temple University Japan Campus. 
+I am a Postdoctoral researcher in the Notsu-lab at the Faculty of Mathematics and Physics in Kanazawa University. This position is funded by CREST. I also hold an Adjunct Assistant Professorship (part-time lecturing) at Temple University Japan Campus. 
 
 For my research I mainly use Python. I have worked on a couple of mechanical and material science problems in collaboration with industry, and I am always on the look for new collaborations.
 
@@ -40,12 +40,12 @@ As a first generation university graduate with a lower class background I very s
 **Current projects:**
 <ul>
     <li> Harnessing omnipresent oscillators networks as computational resource: <a href ="https://www.kohei-nakajima.com/">Kohei Nakajima (U of Tokyo) </a>, <a href = "https://scheme.hn/"> Hirofumi Notsu (Kanazawa U) </a> </li>
-    <li> Biomath (replicating oscillators): <a href="https://sites.google.com/edu.k.u-tokyo.ac.jp/ayumiozawa/home"> Ayumi Ozawa (JAMSTEC) </a>, <a href = "https://www.simonsfoundation.org/people/matthew-smart/"> Matthew Smart (Flatiron Institute)</a>, Hayden Nunley (Flatiron Institute), Ahmad Mohiuddin (Kanazawa U),  Oussama Ounissi (Kanazawa U)</li>
+    <li> Biomath (replicating oscillators): <a href="https://sites.google.com/edu.k.u-tokyo.ac.jp/ayumiozawa/home"> Ayumi Ozawa (JAMSTEC) </a>, <a href = "https://www.simonsfoundation.org/people/matthew-smart/"> Matthew Smart (Flatiron Institute)</a>, <a href="https://www.simonsfoundation.org/people/hayden-nunley/"> Hayden Nunley (Flatiron Institute) </a>, Ahmad Mohiuddin (Kanazawa U),  Oussama Ounissi (Kanazawa U)</li>
     <li> Pedestrian flow and swarms: <a href = "https://corbetta.phys.tue.nl/"> Alessandro Corbetta (TU Eindhoven)</a> </li>
     <li> Biomath (surface-bulk PDEs): <a href = "https://www.koondi.net/"> Koondanibha Mitra (TU Eindhoven) </a>, <a href = "https://antoinediez.gitlab.io/"> Antoine Diez (Kyoto U) </a>, Kharisma Surya Putri (Kanazawa U) </li>
     <li> Liquid reservoir computing: Cedric Caremel (U of Tokyo), <a href = "https://scheme.hn/"> Hirofumi Notsu (Kanazawa U) </a> </li>
-    <li> Long-term memory of reservoir computing: <a href = "https://scheme.hn/"> Hirofumi Notsu (Kanazawa U) </a>, <a href ="https://www.kohei-nakajima.com/">Kohei Nakajima (U of Tokyo) </a>, Ahmad Mohiuddin (Kanazawa U),  Oussama Ounissi (Kanazawa U) </li>
-    <li> SINDy for noisy data: <a href = "https://scheme.hn/"> Hirofumi Notsu (Kanazawa U) </a>, Yuma Nakamura (Kanazawa U), Doris Voina (U of Washington) </li>
+    <li> Long-term memory of reservoir computing: <a href = "https://scheme.hn/"> Hirofumi Notsu (Kanazawa U) </a>, Ahmad Mohiuddin (Kanazawa U),  Oussama Ounissi (Kanazawa U) </li>
+    <li> SINDy for noisy data: <a href = "https://scheme.hn/"> Hirofumi Notsu (Kanazawa U) </a>, Yuma Nakamura (Kanazawa U), Doris Voina (MILA/University of Montreal) </li>
 </ul>
 
 **Shelved projects:** (looking for collaborators to resolve obstacles, pls contact me if you are interested)
@@ -87,7 +87,7 @@ Collaborators not mentioned above:  <a href ="https://www.math.rug.nl/~broer/">H
   <li> Eddie Nijholt (USP, Assistant Prof), Winter 2025 </li> 
   <li> Filip Vozenilek (Czech TU, Master student), Summer 2025 </li>
   <li> Muhammad Noman Tabassum (U L'Aquila/Karlstad U, Master student), Summer 2025</li>
-  <li> Kodanibha Mitra (TU Eindhoven, Assistant Prof), Spring 2025 </li>
+  <li> Koodanibha Mitra (TU Eindhoven, Assistant Prof), Spring 2025 </li>
   <li> Hayden Nunley (Flatiron Inst., Assistant Prof), Matthew Smart (Flatiron Inst., Dr.), Autumn 2024 </li>
   <li> Elsa Bernholm (Karlstad U, Master student), Winter 2023 </li>
 </ul>
