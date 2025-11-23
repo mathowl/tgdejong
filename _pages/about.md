@@ -45,7 +45,7 @@ As a first generation university graduate with a lower class background I very s
     <li> Biomath (surface-bulk PDEs): <a href = "https://www.koondi.net/"> Koondanibha Mitra (TU Eindhoven) </a>, <a href = "https://antoinediez.gitlab.io/"> Antoine Diez (Kyoto U) </a>, Kharisma Surya Putri (Kanazawa U) </li>
     <li> Liquid reservoir computing: Cedric Caremel (U of Tokyo), <a href = "https://scheme.hn/"> Hirofumi Notsu (Kanazawa U) </a> </li>
     <li> Long-term memory of reservoir computing: <a href = "https://scheme.hn/"> Hirofumi Notsu (Kanazawa U) </a>, Ahmad Mohiuddin (Kanazawa U),  Oussama Ounissi (Kanazawa U) </li>
-    <li> SINDy for noisy data: <a href = "https://scheme.hn/"> Hirofumi Notsu (Kanazawa U) </a>, Yuma Nakamura (Kanazawa U), Doris Voina (MILA/University of Montreal) </li>
+    <li> SINDy for noisy data: <a href = "https://scheme.hn/"> Hirofumi Notsu (Kanazawa U) </a>, Yuma Nakamura (Kanazawa U), Doris Voina (MILA and University of Montreal) </li>
 </ul>
 
 **Shelved projects:** (looking for collaborators to resolve obstacles, pls contact me if you are interested)
