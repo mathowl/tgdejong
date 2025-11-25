@@ -19,7 +19,7 @@ Current topic: Infinite dimensional dynamical systems
 
 Weekly on Wednesday at 15:00-16:30 JST (Online) 
 
-If you are interested in joining this study groups please send me an email
+If you are interested in joining please send me an email
 
 **Members:**
 <ul>
