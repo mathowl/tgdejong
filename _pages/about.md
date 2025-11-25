@@ -61,8 +61,8 @@ Collaborators not mentioned above:  <a href ="https://www.math.rug.nl/~broer/">H
 <ul>
   <li>2026-02-09 DEDS2026 (invitation of Prof Hirofumi Notsu)</li>
   <li>2026-01-19 Max Planck Institute PKS Seminar, Dresden (invitation of Dr. Edmilson Roque dos Santos)</li>
-  <li>2026-01-07: Statistische Physik weicher Materie und biologischer Systeme Seminar, TU Berlin Seminar (invitation of Prof. Holger Stark)</li>
   <li>2026-01-08: Potsdam U (invitation of Dr. Oleh Omelchenko)</li>
+  <li>2026-01-07: Statistische Physik weicher Materie und biologischer Systeme Seminar, TU Berlin Seminar (invitation of Prof. Holger Stark)</li>
   <li>2025-10-28: Duke Kunshan Mathematics Seminar, Kunshan (invitation of Prof. Konstantinos Efstathiou)</li>
   <li>2025-10-25: International Workshop on Modeling, Analysis and Computation with Application in Economics and AI, Shanghai School of Economics (invitation of Prof. Jiang Yu)</li>  
   <li>2025-10-02: DynamIC Seminar, Imperial College (invitation of Prof. Jeroen Lamb) </li>
