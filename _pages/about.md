@@ -61,6 +61,7 @@ Collaborators not mentioned above:  <a href ="https://www.math.rug.nl/~broer/">H
 <ul>
   <li>2026-02-09 DEDS2026 (invitation of Prof Hirofumi Notsu)</li>
   <li>2026-01-19 Max Planck Institute PKS Seminar, Dresden (invitation of Dr. Edmilson Roque dos Santos)</li>
+  <li>2026-01-11 Recent trends in coupled network systems, WIAS, Berlin</li>
   <li>2026-01-08: Potsdam U (invitation of Dr. Oleh Omelchenko)</li>
   <li>2026-01-07: Statistische Physik weicher Materie und biologischer Systeme Seminar, TU Berlin Seminar (invitation of Prof. Holger Stark)</li>
   <li>2025-10-28: Duke Kunshan Mathematics Seminar, Kunshan (invitation of Prof. Konstantinos Efstathiou)</li>
@@ -96,9 +97,9 @@ Collaborators not mentioned above:  <a href ="https://www.math.rug.nl/~broer/">H
 
 **Teaching:** 
 <ul>
-  <li>2026 S1(Spring): Adjunct Assistant Professor (Temple U JP) - Algebra  </li>
-  <li>2025 S2(Autumn): Adjunct Assistant Professor (Temple U JP) - Algebra  </li>
-  <li>2025 S1(Spring): Adjunct Assistant Professor (Temple U JP) - Algebra  </li>
+  <li>2026 S1(Spring): Adjunct Assistant Professor (Temple U JP) - Intermediate Algebra (MATH 0702)  </li>
+  <li>2025 S2(Autumn): Adjunct Assistant Professor (Temple U JP) - Intermediate Algebra (MATH 0702)  </li>
+  <li>2025 S1(Spring): Adjunct Assistant Professor (Temple U JP) - Intermediate Algebra (MATH 0702)  </li>
   <li>2024 Q4(Winter): Lecturer (Kanazawa U) - Analysis 3B (PDEs) (Book: 偏微分方程式入門 by　神保秀一) </li>
   <li>2023 Q3(Autumn): Lecturer (Kanazawa U) - Analysis 3A (ODEs) (Book: 微分方程式 by 長瀬道弘)</li>
 </ul>
