@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DEDS seminar 10th of December  
+title: DEDS seminar 10th of December by Eddie Nijholt (USP) on Emergent hypernetworks in weakly coupled oscillators  
 date: 2025-12-04
 inline: false
 related_posts: false
