@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-**Date:**  2025-12-04 16:30-18:00 金沢大学角間キャンパス自然科学５号館２階２０９Ａ室 
+**Date:**  2025-12-10 (wed) 16:30-18:00 金沢大学角間キャンパス自然科学５号館２階２０９Ａ室 
 
 **Speaker:** Eddie Nijholt (USP, Brazil)
 
