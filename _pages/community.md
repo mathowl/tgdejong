@@ -13,13 +13,18 @@ nav_order: 5
 You can join the mailings list through [this link](https://groups.google.com/forum/#!forum/deds-ku/join). Seminars are also posted over [here](https://scheme.hn/deds/).  
 
 
-<h2> Dynamical systems study group </h2>
+<h2> Dynamical systems study group (DSG) </h2>
 
-Current topic: Infinite dimensional dynamical systems
+<h4> Spring 2026 - DSG   </h4>
 
-Weekly on Wednesday at 15:00-16:30 JST (Online) 
+Topic: Stability of synchronized motion in complex networks
 
-If you are interested in joining please send me an email
+If you want to join for the Spring Session click [here](https://docs.google.com/forms/d/e/1FAIpQLSe_lA8K1Jir3dT4LzFrR9sAd9EaWQie6uT7qhTfYfJKMevRXw/viewform?usp=dialog) 
+
+
+<h4> Autumn 2025 - DSG   </h4>
+
+Topic: Infinite dimensional dynamical systems
 
 **Members:**
 <ul>
@@ -39,5 +44,4 @@ If you are interested in joining please send me an email
 </div>
 
 
-<h2> Differential Equations for Data Science study group: TBA </h2>
 
