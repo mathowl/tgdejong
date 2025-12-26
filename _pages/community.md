@@ -2,7 +2,7 @@
 layout: page
 permalink: /community/
 title: Community
-description: open study groups
+description: open seminars and study groups
 nav: true
 nav_order: 5
 ---
