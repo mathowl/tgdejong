@@ -15,16 +15,12 @@ You can join the mailings list through [this link](https://groups.google.com/for
 
 <h2> Dynamical systems study group (DSG) </h2>
 
-<h4> Spring 2026 - DSG   </h4>
-
-Topic: Stability of synchronized motion in complex networks
+<h4> Spring 2026 - DSG - Stability of synchronized motion in complex networks  </h4>
 
 If you want to join for the Spring Session click [here](https://docs.google.com/forms/d/e/1FAIpQLSe_lA8K1Jir3dT4LzFrR9sAd9EaWQie6uT7qhTfYfJKMevRXw/viewform?usp=dialog) 
 
 
-<h4> Autumn 2025 - DSG   </h4>
-
-Topic: Infinite dimensional dynamical systems
+<h4> Autumn 2025 - DSG - Infinite dimensional dynamical systems </h4>
 
 **Members:**
 <ul>
