@@ -8,21 +8,15 @@ nav_order: 4
 ---
 
 <h1>
-Upcoming events: 2025
-</h1>
-
-<hr />
-
-
-<h1>
 Upcoming events: 2026
 </h1>
 
-<h3> Mini-workshop Kanazawa U and Imperial college  (KIC2026) </h3>
-(Satellite workshop DEDS2026)
+<h3> Mini-DEDS (Satellite workshop DEDS2026) </h3>
+
 
 **Date:** February 7 <br>
 **Location:** Kanazawa <br>
+**Website:** [link](https://sites.google.com/view/mini-dedskanazawa2026/home)  <br>
 
 
 <hr />
