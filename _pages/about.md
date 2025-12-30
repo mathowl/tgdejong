@@ -91,7 +91,7 @@ Collaborators not mentioned above:  <a href ="https://www.math.rug.nl/~broer/">H
   <li> Filip Vozenilek (Czech TU, Master student), Summer 2025 </li>
   <li> Muhammad Noman Tabassum (U L'Aquila/Karlstad U, Master student), Summer 2025</li>
   <li> Koodanibha Mitra (TU Eindhoven, Assistant Prof), Spring 2025 </li>
-  <li> Hayden Nunley (Flatiron Inst., Assistant Prof), Matthew Smart (Flatiron Inst., Dr.), Autumn 2024 </li>
+  <li> Hayden Nunley (Flatiron Inst., Associate Senior Scientist), Matthew Smart (Flatiron Inst., Dr.), Autumn 2024 </li>
   <li> Elsa Bernholm (Karlstad U, Master student), Winter 2023 </li>
 </ul>
 
