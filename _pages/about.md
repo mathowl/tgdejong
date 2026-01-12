@@ -59,6 +59,7 @@ Collaborators not mentioned above:  <a href ="https://www.math.rug.nl/~broer/">H
 **Touring calendar (in-person talks,seminars etc. maintained since Summer 2025):**
 
 <ul>
+  <li>2026-03-09 Nonlinear Seminar at Tokyo Inst. of Science [Prof Hiroya Nakao group]  (invitation of Dr Riccardo Muolo)</li>
   <li>2026-02-09 DEDS2026 (invitation of Prof Hirofumi Notsu)</li>
   <li>2026-01-19 Max Planck Institute PKS Seminar, Dresden (invitation of Dr. Edmilson Roque dos Santos)</li>
   <li>2026-01-11 Recent trends in coupled network systems, WIAS, Berlin</li>
