@@ -8,7 +8,7 @@ nav_order: 4
 ---
 
 <h1>
-Upcoming events: 2026
+Past events: 2026
 </h1>
 
 <h3> Mini-DEDS (Satellite workshop DEDS2026) </h3>
