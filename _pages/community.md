@@ -21,6 +21,7 @@ You can join the mailings list through [this link](https://groups.google.com/for
 <ul>
     <li>Hirofumi Notsu (KU)</li>
     <li>Edmilson Roque dos Santos (MPI-PKS)</li>
+    <li>Jin Yan (WIAS)</li>
     <li>Ricky Nworah (Birkbeck College)</li>
     <li>Yuriko Fujihara (KU)</li>
     <li>Taikei Uechi (KU)</li>
