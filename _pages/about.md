@@ -96,11 +96,16 @@ Collaborators not mentioned above:  <a href ="https://www.math.rug.nl/~broer/">H
   <li> Elsa Bernholm (Karlstad U, Master student), Winter 2023 </li>
 </ul>
 
-**Teaching:** (For seminar courses at Msc/Phd level see the community tab)
+**Teaching:** 
 <ul>
-  <li>Adjunct Assistant Professor (Temple U JP) - Intermediate Algebra (MATH 0702): 26/27S1(Fall),25/26S2(Spring),25/26S1(Fall),24/25S2(Spring)  *(Temple U JP has a tri-mester system with the fall, spring trimester lasting 14-weeks)*</li>
-  <li>Adjunct Assistant Professor (Temple U JP) - Calculus (MATH 1041): 25/26S3(Summer),26/27S1(Fall)</li>
-  <li>Visiting Assistant Professor (Duke - Kunshan) - Calculus (MATH 0105): 25/26, Spring S2</li>
-  <li>Lecturer (Kanazawa U) - Analysis 3B (PDEs) (Book: 偏微分方程式入門 by　神保秀一): 24/25Q4(Winter) </li>
-  <li>Lecturer (Kanazawa U) - Analysis 3A (ODEs) (Book: 微分方程式 by 長瀬道弘) 23/24Q4(Winter)</li>
+  <li>2026/2027 S1(Fall): Adjunct Assistant Professor (Temple U JP) - Intermediate Algebra (MATH 0702)  </li>
+  <li>2026/2027 S1(Fall): Adjunct Assistant Professor (Temple U JP) - Calculus (MATH 1041)  </li>
+    <li>2025/2026 S3(Summer): Adjunct Assistant Professor (Temple U JP) - Calculus (MATH 1041)  </li>
+  <li>2025/2026 - Spring second session: Visiting Assistant Professor (Duke - Kunshan) - Calculus (MATH 0105)  </li>
+  <li>2025/2026 S1(Spring): Adjunct Assistant Professor (Temple U JP) - Intermediate Algebra (MATH 0702)  </li>
+  <li>2025/2026 - S1(Autumn) : Adjunct Assistant Professor (Temple U JP) - Intermediate Algebra (MATH 0702)  </li>
+  <li>2025 - S2(Spring): Adjunct Assistant Professor (Temple U JP) - Intermediate Algebra (MATH 0702)  </li>
+  <li>2024/2025 Q4(Winter): Lecturer (Kanazawa U) - Analysis 3B (PDEs) (Book: 偏微分方程式入門 by　神保秀一) </li>
+  <li>2023/2024 Q3(Autumn): Lecturer (Kanazawa U) - Analysis 3A (ODEs) (Book: 微分方程式 by 長瀬道弘)</li>
 </ul>
+* (Temple U JP has a tri-mester system with the fall, spring trimester lasting 14-weeks) *
