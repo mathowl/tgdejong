@@ -108,4 +108,6 @@ Collaborators not mentioned above:  <a href ="https://www.math.rug.nl/~broer/">H
   <li>2024/2025 Q4(Winter): Lecturer (Kanazawa U) - Analysis 3B (PDEs) (Book: 偏微分方程式入門 by　神保秀一) </li>
   <li>2023/2024 Q3(Autumn): Lecturer (Kanazawa U) - Analysis 3A (ODEs) (Book: 微分方程式 by 長瀬道弘)</li>
 </ul>
-* (Temple U JP has a tri-mester system with the fall, spring trimester lasting 14-weeks) *
+
+*(Temple U JP has a tri-mester system with the fall, spring trimester lasting 14-weeks)*
+*(For seminar courses at Msc/Phd level see the community tab)*
