@@ -102,7 +102,7 @@ Collaborators not mentioned above:  <a href ="https://www.math.rug.nl/~broer/">H
   <li>2026/2027 - S1(Fall): Adjunct Assistant Professor (Temple U JP) - Calculus (MATH 1041)  </li>
     <li>2025/2026 - S3(Summer): Adjunct Assistant Professor (Temple U JP) - Calculus (MATH 1041)  </li>
   <li>2025/2026 - Q4(Spring second session): Visiting Assistant Professor (Duke - Kunshan) - Calculus (MATH 0105)  </li>
-  <li>2025/2026 - S1(Spring): Adjunct Assistant Professor (Temple U JP) - Intermediate Algebra (MATH 0702)  </li>
+  <li>2025/2026 - S2(Spring): Adjunct Assistant Professor (Temple U JP) - Intermediate Algebra (MATH 0702)  </li>
   <li>2025/2026 - S1(Autumn) : Adjunct Assistant Professor (Temple U JP) - Intermediate Algebra (MATH 0702)  </li>
   <li>2025/2026 - S2(Spring): Adjunct Assistant Professor (Temple U JP) - Intermediate Algebra (MATH 0702)  </li>
   <li>2024/2025 - Q4(Winter): Lecturer (Kanazawa U) - Analysis 3B (PDEs) (Book: 偏微分方程式入門 by　神保秀一) </li>
