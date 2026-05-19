@@ -59,6 +59,7 @@ Collaborators not mentioned above:  <a href ="https://www.math.rug.nl/~broer/">H
 **Touring calendar (in-person talks,seminars etc. maintained since Summer 2025):**
 
 <ul>
+  <li>2026-05-13 Hebei Normal Mathematics Seminar, Shijiajuang, China (invitation of Prof Liping Yuan)</li>
   <li>2026-03-09 Nonlinear Seminar at Tokyo Inst. of Science [Prof Hiroya Nakao group]  (invitation of Dr Riccardo Muolo)</li>
   <li>2026-02-09 DEDS2026 (invitation of Prof Hirofumi Notsu)</li>
   <li>2026-01-19 Max Planck Institute PKS Seminar, Dresden (invitation of Dr. Edmilson Roque dos Santos)</li>
@@ -96,6 +97,8 @@ Collaborators not mentioned above:  <a href ="https://www.math.rug.nl/~broer/">H
   <li> Elsa Bernholm (Karlstad U, Master student), Winter 2023 </li>
 </ul>
 
+**Refereeing:** I have written referee reports for the following journals among others: Complexity, Nonlinear Dynamics, Journal of Mathematical Physics, Neuromorphic Computing, Machine Learning: Science and Technology. 
+
 **Teaching:** 
 <ul>
   <li>2026/2027 - S1(Fall): Adjunct Assistant Professor (Temple U JP) - Intermediate Algebra (MATH 0702)  </li>
@@ -110,3 +113,4 @@ Collaborators not mentioned above:  <a href ="https://www.math.rug.nl/~broer/">H
 </ul>
 
 *Note: Temple U JP has a tri-mester system with the fall, spring trimester lasting 14-weeks; For seminar courses at Msc/Phd level see the community tab*
+
