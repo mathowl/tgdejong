@@ -33,7 +33,7 @@ My position(s) will end beginning of March 2027 although I am in the loop for ma
 <hr />
 
 
-I am an organizer of the Differential Equations for Data Science seminar [DEDS](https://scheme.hn/deds/), if you want to join our seminar mailingslist click [here](https://groups.google.com/forum/#!forum/deds-ku/join). I am also an organizer of the [Dynamical systems Study Group](https://mathowl.github.io/tgdejong/community/). 
+I am an organizer of the Differential Equations for Data Science seminar [DEDS](https://scheme.hn/deds/), if you want to join our seminar mailingslist click [here](https://groups.google.com/forum/#!forum/deds-ku/join). I am also an organizer of the [Dynamical systems Study Group](https://mathowl.github.io/tgdejong/community/). This is an online open study group, please contact me if you are interested in participating
 
 As a first generation university graduate with a lower class background I very strongly believe in a grass-roots approach to science. I am very supportive of open-source. I think that a delta-function perspective on research is outdated in the age of model-free methods.  
 
