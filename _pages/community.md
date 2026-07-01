@@ -12,7 +12,8 @@ nav_order: 5
 
 You can join the mailings list through [this link](https://groups.google.com/forum/#!forum/deds-ku/join). Seminars are also posted over [here](https://scheme.hn/deds/).  
 
-Discord server: https://discord.gg/pMEs7QYFv [//]: <> (Expires 1-Aug-2026)
+Discord server: [link](https://discord.gg/pMEs7QYFv) 
+<> (Expires 1-Aug-2026)
 
 
 
