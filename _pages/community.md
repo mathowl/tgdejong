@@ -15,12 +15,17 @@ You can join the mailings list through [this link](https://groups.google.com/for
 
 <h2> Discord community</h2>
 
-Server: [link](https://discord.gg/pMEs7QYFv) 
+Here is our server [link](https://discord.gg/pMEs7QYFv). This link expires and is renewed every month.   
 [](Expires 1-Aug-2026)
 
 
 
 <h2> Dynamical systems study group (DSG) </h2>
+
+<h4> Spring 2027 - DSG - Dynamical systems for reservoir computing the theoretical foundations</h4>
+
+Start date TBD. If you are interested in joining you can complete [this google form](https://forms.gle/gxLeakSYvRAJnNw38)
+
 
 <h4> Spring 2026 - DSG - Stability of synchronized motion in complex networks  </h4>
 
