@@ -22,7 +22,7 @@ Here is our server [link](https://discord.gg/pMEs7QYFv). This link expires and i
 
 <h2> Dynamical systems study group (DSG) </h2>
 
-<h4> Spring 2027 - DSG - Dynamical systems for reservoir computing the theoretical foundations</h4>
+<h4> Spring 2027 - DSG - The theoretical foundations of reservoir computing</h4>
 
 Start date TBD. If you are interested in joining you can complete [this google form](https://forms.gle/gxLeakSYvRAJnNw38)
 
