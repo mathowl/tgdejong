@@ -41,17 +41,19 @@ As a first generation university graduate with a lower class background I very s
 <ul>
     <li> Harnessing omnipresent oscillators networks as computational resource: <a href ="https://www.kohei-nakajima.com/">Kohei Nakajima (U of Tokyo) </a>, <a href = "https://scheme.hn/"> Hirofumi Notsu (Kanazawa U) </a> </li>
     <li> Biomath (replicating oscillators): <a href="https://sites.google.com/edu.k.u-tokyo.ac.jp/ayumiozawa/home"> Ayumi Ozawa (JAMSTEC) </a>, <a href = "https://www.simonsfoundation.org/people/matthew-smart/"> Matthew Smart (Flatiron Institute)</a>, <a href = "https://www.simonsfoundation.org/people/hayden-nunley/">Hayden Nunley (Flatiron Institute)</a>, Ahmad Mohiuddin (Kanazawa U),  Oussama Ounissi (Kanazawa U)</li>
-    <li> Pedestrian flow and swarms: <a href = "https://corbetta.phys.tue.nl/"> Alessandro Corbetta (TU Eindhoven)</a> </li>
+    <li> Dynamics of reservoir computing with Kuramoto oscillators: Eddie Nijholt (University of Sao Paolo), Filip Vozenilek (Czech Technical University)</li>
+    <li> Reservoir computing for swarms: <a href = "https://corbetta.phys.tue.nl/"> Alessandro Corbetta (TU Eindhoven)</a> </li>
     <li> Biomath (surface-bulk PDEs): <a href = "https://www.koondi.net/"> Koondanibha Mitra (TU Eindhoven) </a>, <a href = "https://antoinediez.gitlab.io/"> Antoine Diez (Kyoto U) </a>, Kharisma Surya Putri (Kanazawa U) </li>
     <li> Liquid reservoir computing: Cedric Caremel (U of Tokyo), Hidetaka Houtani (U of Tokyo), Ta Duc Tung (U of Tokyo), Yeman Fan (U of Tokyo), <a href = "https://scheme.hn/"> Hirofumi Notsu (Kanazawa U) </a> </li>
     <li> Long-term memory of reservoir computing: <a href = "https://scheme.hn/"> Hirofumi Notsu (Kanazawa U) </a>, Ahmad Mohiuddin (Kanazawa U),  Oussama Ounissi (Kanazawa U) </li>
-    <li> SINDy for noisy data: <a href = "https://scheme.hn/"> Hirofumi Notsu (Kanazawa U) </a>, Yuma Nakamura (Kanazawa U), Doris Voina (MILA and University of Montreal) </li>
+    <li> Long-term memory of reservoir computing: <a href = "https://scheme.hn/"> Hirofumi Notsu (Kanazawa U) </a>, Ahmad Mohiuddin (Kanazawa U),  Oussama Ounissi (Kanazawa U) </li>
 </ul>
 
 **Shelved projects:** (looking for collaborators to resolve obstacles, pls contact me if you are interested)
 
 <ul>
     <li> Data science and Archeology: <a href ="https://www.tue.nl/en/research/researchers/krist-vaesen"> Krist Vaesen (TU Eindhoven) </a>, <a href="https://www.universiteitleiden.nl/en/staffmembers/fulco-scherjon"> Fulco Scherjon (Leiden U) </a>, Andrew Sorensen (Leiden U), Stan van Zon (U of Utrecht)</li>
+    <li> SINDy for noisy data: <a href = "https://scheme.hn/"> Hirofumi Notsu (Kanazawa U) </a>, Yuma Nakamura (Kanazawa U), Doris Voina (MILA and University of Montreal) </li>
 </ul>
 
 Collaborators not mentioned above:  <a href ="https://www.math.rug.nl/~broer/">Henk Broer (U of Groningen)</a>, <a href="https://sites.google.com/view/nozomiakashi/">Nozomi Akashi (Kyoto U)</a>, <a href="https://researchmap.jp/tomohiro-taniguchi">Tomohiro Taniguchi (AIST)</a>, <a href="https://www.tue.nl/en/research/researchers/georg-prokert">Georg Prokert (TU Eindhoven)</a>, <a href="https://www.few.vu.nl/~jhulshof/">Joost Hulshof (VU Amsterdam)</a>, <a href="https://sites.google.com/site/pjpvmeurs/">Patrick van Meurs (Kanazawa U)</a>, <a href = "https://www.math.rug.nl/~alef/"> Alef Sterk (U of Groningen) </a>
