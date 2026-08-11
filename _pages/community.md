@@ -14,9 +14,8 @@ You can join the mailings list through [this link](https://groups.google.com/for
 
 
 <h2> Discord community</h2>
-
-Here is our server [link](https://discord.gg/pMEs7QYFv). This link expires and is renewed every month.   
-[](Expires 1-Aug-2026)
+Here is our server [link](https://discord.gg/DqJVHnJfQ). This link expires and is renewed every month.   
+[](Expires 1-Sep-2026)
 
 
 
