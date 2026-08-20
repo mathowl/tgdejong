@@ -9,7 +9,7 @@ nav_order: 1
 
 **Preprints:**
 - **T.G. de Jong**\*, H. Notsu, K. Nakajima. Harnessing omnipresent oscillator networks as a computational resource. *arXiv:2502.04818* [link](https://arxiv.org/abs/2502.04818)  
-- **T.G. de Jong**\*. Designing learning in high dimensional oscillator networks with low dimensional read-out. *arXiv:2509.00848* [link](https://arxiv.org/abs/2509.00848) 
+- **T.G. de Jong**\*. Designing learning in high dimensional oscillator networks with low dimensional read-out. *arXiv:2509.00848* [link](https://arxiv.org/abs/2509.00848) (Submitted)
 - M. Potratzki, **T.G. de Jong**, M. Small, T. Broehl\*. Ordinal Pattern Transition Networks as a Symbolic Substrate for Reservoir Computing (Submitted)  
 
 **Peer-reviewed:**
