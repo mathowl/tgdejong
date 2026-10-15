@@ -12,7 +12,7 @@ nav_order: 1
 - **T.G. de Jong**\*. Designing learning in high dimensional oscillator networks with low dimensional read-out. *arXiv:2509.00848* [link](https://arxiv.org/abs/2509.00848) (Submitted)
 
 **Peer-reviewed:**
-- M. Potratzki, **T.G. de Jong**, M. Small, T. Broehl\*. (2026) Ordinal Pattern Transition Networks as a Symbolic Substrate for Reservoir Computing [link](https://doi.org/10.1063/5.0355934)  
+- M. Potratzki, **T.G. de Jong**, M. Small, T. Broehl\*. (2026) Ordinal Pattern Transition Networks as a Symbolic Substrate for Reservoir Computing [link](https://doi.org/10.1063/5.0355934) (Featured paper) 
 - **T.G. de Jong**\*, P. van Meurs. (2025) Hölder regularity for the trajectories of generalized charged particles in 1D. *Communications in Analysis and Mechanics* 17(3) [link](https://www.aimspress.com/article/doi/10.3934/cam.2025028?viewType=HTML)
 - **T.G. de Jong**\*, G. Prokert, and A.E. Sterk. (2025) Reaction–diffusion transport into core-shell geometry: Well-posedness and stability of stationary solutions. *Networks and Heterogeneous Media* 20(1) [link](https://www.aimspress.com/article/doi/10.3934/nhm.2025001)
 - Y. Nakamura, K.S. Putri, A.E. Sterk, **T.G. de Jong**\*. (2024) Well-posedness results for general reaction–diffusion transport of oxygen in encapsulated cells. *Bulletin of the Australian Mathematical Society* 111(1) [link](https://resolve.cambridge.org/core/journals/bulletin-of-the-australian-mathematical-society/article/abs/wellposedness-results-for-general-reactiondiffusion-transport-of-oxygen-in-encapsulated-cells/675BC1A38490100AC1FE4ABA080FB900)
