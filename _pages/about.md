@@ -16,7 +16,7 @@ profile:
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
 I am an applied mathematician that computes dynamics and uses dynamics to compute. The first topic is related to biomechanical models as well as a dynamics driven perspective on AI. The second topic is my main focus and lies in the domain of physical reservoir computing which is a framework that utilizes natural physical phenomena to perform computations. 
@@ -60,6 +60,7 @@ Collaborators not mentioned above:  <a href ="https://www.math.rug.nl/~broer/">H
 **Touring calendar (in-person talks,seminars etc. maintained since Summer 2025):**
 
 <ul>
+  <li>2026-10-23 Hebei Normal Dynamical Systems Seminar, Shijiazhuang, China (invitation of Prof Stefano Luzatto)</li>
   <li>2026-05-13 Hebei Normal Mathematics Seminar, Shijiazhuang, China (invitation of Prof Liping Yuan)</li>
   <li>2026-03-09 Nonlinear Seminar at Tokyo Inst. of Science [Prof Hiroya Nakao group]  (invitation of Dr Riccardo Muolo)</li>
   <li>2026-02-09 DEDS2026 (invitation of Prof Hirofumi Notsu)</li>
