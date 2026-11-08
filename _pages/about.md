@@ -60,6 +60,7 @@ Collaborators not mentioned above:  <a href ="https://www.math.rug.nl/~broer/">H
 **Touring calendar (in-person talks,seminars etc. maintained since Summer 2025):**
 
 <ul>
+  <li>2026-11-09 Day workshop on low dim topology, dynamics and related topics, SIMIS (Fudan U), Shanghai, China</li>
   <li>2026-10-23 Hebei Normal Dynamical Systems Seminar, Shijiazhuang, China (invitation of Prof Stefano Luzatto)</li>
   <li>2026-05-13 Hebei Normal Mathematics Seminar, Shijiazhuang, China (invitation of Prof Liping Yuan)</li>
   <li>2026-03-09 Nonlinear Seminar at Tokyo Inst. of Science [Prof Hiroya Nakao group]  (invitation of Dr Riccardo Muolo)</li>
