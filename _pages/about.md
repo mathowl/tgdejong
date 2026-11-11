@@ -35,7 +35,7 @@ My position(s) will end beginning of March 2027 although I am in the loop for ma
 
 I am an organizer of the Differential Equations for Data Science seminar [DEDS](https://scheme.hn/deds/), if you want to join our seminar mailingslist click [here](https://groups.google.com/forum/#!forum/deds-ku/join). I am also an organizer of the [Dynamical systems Study Group](https://mathowl.github.io/tgdejong/community/). This is an online open study group, please contact me if you are interested in participating
 
-As a first generation university graduate with a lower class background I very strongly believe in a grass-roots approach to science. I am very supportive of open-source. I think that a delta-function perspective on research is outdated in the age of model-free methods.  
+As a first generation university graduate with a lower class background I very strongly believe in a grass-roots approach to science. I think research investments should be more strongly focused on developing countries as the greatest improvement to society is achieved by lifting up the people at the bottom. I am very supportive of open-source. I think that a delta-function perspective on research is outdated in the age of model-free methods.  
 
 **Current projects:**
 <ul>
@@ -60,14 +60,14 @@ Collaborators not mentioned above:  <a href ="https://www.math.rug.nl/~broer/">H
 **Touring calendar (in-person talks,seminars etc. maintained since Summer 2025):**
 
 <ul>
-  <li>2026-12-02 Hirata lab seminar, Tsukuba U, Tsukuba, Japan (invitation of Prof Yoshito Hirata)</li>
-  <li>2026-11-09 Day workshop on low dim topology, dynamics and related topics, SIMIS (Fudan U), Shanghai, China</li>
-  <li>2026-10-23 Hebei Normal Dynamical Systems Seminar, Shijiazhuang, China (invitation of Prof Stefano Luzatto)</li>
-  <li>2026-05-13 Hebei Normal Mathematics Seminar, Shijiazhuang, China (invitation of Prof Liping Yuan)</li>
-  <li>2026-03-09 Nonlinear Seminar at Tokyo Inst. of Science [Prof Hiroya Nakao group]  (invitation of Dr Riccardo Muolo)</li>
-  <li>2026-02-09 DEDS2026 (invitation of Prof Hirofumi Notsu)</li>
-  <li>2026-01-19 Max Planck Institute PKS Seminar, Dresden (invitation of Dr. Edmilson Roque dos Santos)</li>
-  <li>2026-01-11 Recent trends in coupled network systems, WIAS, Berlin</li>
+  <li>2026-12-02: Hirata lab seminar, Tsukuba U, Tsukuba, Japan (invitation of Prof Yoshito Hirata)</li>
+  <li>2026-11-09: Day workshop on low dim topology, dynamics and related topics, SIMIS (Fudan U), Shanghai, China</li>
+  <li>2026-10-23: Hebei Normal Dynamical Systems Seminar, Shijiazhuang, China (invitation of Prof Stefano Luzatto)</li>
+  <li>2026-05-13: Hebei Normal Mathematics Seminar, Shijiazhuang, China (invitation of Prof Liping Yuan)</li>
+  <li>2026-03-09: Nonlinear Seminar at Tokyo Inst. of Science [Prof Hiroya Nakao group]  (invitation of Dr Riccardo Muolo)</li>
+  <li>2026-02-09: DEDS2026 (invitation of Prof Hirofumi Notsu)</li>
+  <li>2026-01-19: Max Planck Institute PKS Seminar, Dresden (invitation of Dr. Edmilson Roque dos Santos)</li>
+  <li>2026-01-11: Recent trends in coupled network systems, WIAS, Berlin</li>
   <li>2026-01-08: Potsdam U (invitation of Dr. Oleh Omelchenko)</li>
   <li>2026-01-07: Statistische Physik weicher Materie und biologischer Systeme Seminar, TU Berlin Seminar (invitation of Prof. Holger Stark)</li>
   <li>2025-10-28: Duke Kunshan Mathematics Seminar, Kunshan (invitation of Prof. Konstantinos Efstathiou)</li>
@@ -76,6 +76,11 @@ Collaborators not mentioned above:  <a href ="https://www.math.rug.nl/~broer/">H
   <li>2025-07-29: ECC11, Tokyo U </li>
 </ul>
 
+**Online talks (maintained since Winter 2026):**
+
+<ul>
+  <li>2026-11-16: Research seminar, IRCN, U of Tokyo (invitation of Prof Kazuyuki Aihara)<li>
+</ul>
 
 **Students:** Currently I am supervising: 
 <ul>
@@ -87,8 +92,7 @@ Collaborators not mentioned above:  <a href ="https://www.math.rug.nl/~broer/">H
   <li> Yuriko Fujihara (Master student) </li>
   <li> Ahmad Mohiuddin (Master student) </li>
   <li> Yue Shu (Master student) </li>
-  <li> Filip Vozenilek (Master student) </li>
-    
+  <li> Filip Vozenilek (Master student) </li>  
 </ul>
 
 **Visitors:**
@@ -110,7 +114,7 @@ Collaborators not mentioned above:  <a href ="https://www.math.rug.nl/~broer/">H
 <ul>
   <li>2026/2027 - S1(Fall): Adjunct Assistant Professor (Temple U JP) - Intermediate Algebra (MATH 0702)  </li>
   <li>2026/2027 - S1(Fall): Adjunct Assistant Professor (Temple U JP) - Calculus (MATH 1041)  </li>
-    <li>2025/2026 - S3(Summer): Adjunct Assistant Professor (Temple U JP) - Calculus (MATH 1041)  </li>
+  <li>2025/2026 - S3(Summer): Adjunct Assistant Professor (Temple U JP) - Calculus (MATH 1041)  </li>
   <li>2025/2026 - Q4(Spring second session): Visiting Assistant Professor (Duke - Kunshan) - Calculus (MATH 0105)  </li>
   <li>2025/2026 - S2(Spring): Adjunct Assistant Professor (Temple U JP) - Intermediate Algebra (MATH 0702)  </li>
   <li>2025/2026 - S1(Autumn) : Adjunct Assistant Professor (Temple U JP) - Intermediate Algebra (MATH 0702)  </li>
