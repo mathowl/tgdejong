@@ -79,7 +79,7 @@ Collaborators not mentioned above:  <a href ="https://www.math.rug.nl/~broer/">H
 **Online talks (maintained since Winter 2026):**
 
 <ul>
-  <li>2026-11-16: Research seminar, IRCN, U of Tokyo (invitation of Prof Kazuyuki Aihara)<li>
+  <li>2026-11-16: Research seminar, IRCN, U of Tokyo (invitation of Prof Kazuyuki Aihara)</li>
 </ul>
 
 **Students:** Currently I am supervising: 
