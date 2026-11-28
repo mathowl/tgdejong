@@ -25,7 +25,7 @@ I am an Adjunct Assistant Professor at Temple University Japan Campus. But I am 
 
 For my research I mainly use Python. I have worked on a couple of mechanical and material science problems in collaboration with industry, and I am always on the look for new collaborations.
 
-I am a Founder of Eigenkeepkeep. Eigenkeep designs and delivers custom-built AI computing systems that enable businesses, research institutions and professionals to run large language models locally, without relying on external cloud infrastructure. To find out more sign up to our newsletter: <a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', 'nIfCK1', true)">Click here to show form</a>
+I am a Founder of Eigenkeepkeep. Eigenkeep designs and delivers custom-built AI computing systems that enable businesses, research institutions and professionals to run large language models locally, without relying on external cloud infrastructure. To find out more sign up to our <a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', 'nIfCK1', true)">Newsletter.</a>
  
 
 
