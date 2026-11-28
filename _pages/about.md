@@ -19,14 +19,16 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an applied mathematician that computes dynamics and uses dynamics to compute. The first topic is related to biomechanical models as well as a dynamics driven perspective on AI. The second topic is my main focus and lies in the domain of physical reservoir computing which is a framework that utilizes natural physical phenomena to perform computations. 
 
-I am an Adjunct Assistant Professor at Temple University Japan Campus. But I am still supervising a large body of Master and Phd students at Kanazawa University. If you are interested in getting involved with our research projects you are welcome to shoot me an email. 
+I work at the intersection of mathematics, artificial intelligence, and emerging computing technologies, bridging fundamental research and real-world applications.
 
-For my research I mainly use Python. I have worked on a couple of mechanical and material science problems in collaboration with industry, and I am always on the look for new collaborations.
+### Research & Academia
 
-I am a Founder of Eigenkeep. Eigenkeep designs and delivers custom-built AI computing systems that enable businesses, research institutions and professionals to run large language models locally, without relying on external cloud infrastructure. This provides secure, on-premises AI infrastructure as well as data ownership and digital sovereignty. 
+My research focuses on dynamical systems, applied mathematics, and unconventional computing, with a particular interest in the mathematical foundations of physical reservoir computing. I actively build international research collaborations and contribute to mathematics education.
 
+### Eigenkeep — AI. Private by Design.
+
+Through Eigenkeep, we aim to bring advances in artificial intelligence into practice by developing tailored, privacy-focused AI solutions that give organizations greater control over their computing infrastructure and data.
 
 <div style="clear:both; margin:24px 0; padding:24px; border-radius:12px; background:#142236; color:#F5F7F6;">
   <h3 style="margin:0 0 10px; color:#F5F7F6;">
@@ -34,7 +36,7 @@ I am a Founder of Eigenkeep. Eigenkeep designs and delivers custom-built AI comp
   </h3>
 
   <p style="margin:0 0 18px;">
-    Get research insights, development updates, company news and career opportunities 
+    Stay connected for research insights, development updates, company news and career opportunities 
   </p>
 
   <button
@@ -60,10 +62,18 @@ My position(s) will end beginning of March 2027 although I am in the loop for ma
 </h4>
 <hr />
 
+### Research Community
 
-I am an organizer of the Differential Equations for Data Science seminar [DEDS](https://scheme.hn/deds/), if you want to join our seminar mailingslist click [here](https://groups.google.com/forum/#!forum/deds-ku/join). I am also an organizer of the [Dynamical systems Study Group](https://mathowl.github.io/tgdejong/community/). This is an online open study group, please contact me if you are interested in participating
+I am an organizer of the [Differential Equations for Data Science (DEDS)](https://scheme.hn/deds/) seminar. If you are interested in receiving seminar announcements, you can join our [mailing list](https://groups.google.com/forum/#!forum/deds-ku/join).
 
-As a first generation university graduate with a lower class background I very strongly believe in a grass-roots approach to science. I think research investments should be more strongly focused on developing countries as the greatest improvement to society is achieved by lifting up the people at the bottom. I am very supportive of open-source. I think that a delta-function perspective on research is outdated in the age of model-free methods.  
+I also co-organize the [Dynamical Systems Study Group](https://mathowl.github.io/tgdejong/community/), an open, international online study group. Please feel free to contact me if you are interested in participating.
+
+### Scientific Philosophy
+
+As a first-generation university graduate from a working-class background, I strongly believe in a grassroots approach to science. I advocate for greater research investment in developing countries, where expanding access to scientific resources and opportunities can have a transformative societal impact.
+
+I am a strong supporter of open-source research, open scientific communities, and accessible education. I believe that the emergence of model-free and data-driven methods calls for a shift away from narrowly specialized research toward more interconnected, collaborative, and interdisciplinary approaches to scientific discovery.
+
 
 
 **Current projects:**
