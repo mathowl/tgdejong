@@ -228,7 +228,7 @@ nav_order: 5
   </div>
 
   <div class="cv-entry">
-    <div class="cv-date">Supervision</div>
+    <div class="cv-date">2023-Present</div>
     <div>
       <div class="cv-role">Student Supervision</div>
       <div class="cv-detail">
