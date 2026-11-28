@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>MPI-PKS and Temple University Japan</a>. 
+subtitle: <a href='#'> Applied Mathematician · AI Researcher · Founder of Eigenkeep </a>. 
 
 profile:
   align: right
