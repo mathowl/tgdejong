@@ -14,7 +14,7 @@ profile:
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
@@ -57,7 +57,7 @@ Through Eigenkeep, we aim to bring advances in artificial intelligence into prac
 
 <hr />
 <h4>
-My position(s) will end beginning of March 2027 although I am in the loop for many jobs I still would be very grateful if you could contact me for any research job openings that fit my profile.
+I am open to new academic and industry opportunities starting in spring 2027, particularly those that bring together applied mathematics, artificial intelligence, and emerging computing technologies. I welcome conversations about potential positions and research collaborations.
 </h4>
 <hr />
 
