@@ -25,8 +25,32 @@ I am an Adjunct Assistant Professor at Temple University Japan Campus. But I am 
 
 For my research I mainly use Python. I have worked on a couple of mechanical and material science problems in collaboration with industry, and I am always on the look for new collaborations.
 
-I am a Founder of Eigenkeep. Eigenkeep designs and delivers custom-built AI computing systems that enable businesses, research institutions and professionals to run large language models locally, without relying on external cloud infrastructure. This provides secure, on-premises AI infrastructure as well as data ownership and digital sovereignty. To find out more sign up to our <a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', 'nIfCK1', true)">Newsletter.</a>
- 
+I am a Founder of Eigenkeep. Eigenkeep designs and delivers custom-built AI computing systems that enable businesses, research institutions and professionals to run large language models locally, without relying on external cloud infrastructure. This provides secure, on-premises AI infrastructure as well as data ownership and digital sovereignty. 
+
+
+<div style="clear:both; margin:24px 0; padding:24px; border-radius:12px; background:#142236; color:#F5F7F6;">
+  <h3 style="margin:0 0 10px; color:#F5F7F6;">
+    Follow Eigenkeep’s progress
+  </h3>
+
+  <p style="margin:0 0 18px;">
+    Get product demos, development updates, and early access news.
+  </p>
+
+  <button
+    type="button"
+    class="ml-onclick-form"
+    onclick="ml('show', 'nIfCK1', true)"
+    style="background:#45B294; color:#142236; border:0; border-radius:8px; padding:14px 24px; font:inherit; font-weight:700; cursor:pointer; max-width:100%;">
+    Get Eigenkeep updates
+  </button>
+
+  <p style="margin:12px 0 0; font-size:14px;">
+    Occasional emails. Unsubscribe anytime.
+  </p>
+</div>
+
+
 
 
 
