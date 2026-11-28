@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Kanazawa University</a>. 
+subtitle: <a href='#'>MPI-PKS and Temple University Japan</a>. 
 
 profile:
   align: right
