@@ -34,7 +34,7 @@ I am a Founder of Eigenkeep. Eigenkeep designs and delivers custom-built AI comp
   </h3>
 
   <p style="margin:0 0 18px;">
-    Get product demos, development updates, and early access news.
+    Get research insights, development updates, company news and career opportunities 
   </p>
 
   <button
