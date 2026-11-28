@@ -25,6 +25,10 @@ I am an Adjunct Assistant Professor at Temple University Japan Campus. But I am 
 
 For my research I mainly use Python. I have worked on a couple of mechanical and material science problems in collaboration with industry, and I am always on the look for new collaborations.
 
+I am a Founder of Eigenkeepkeep. Eigenkeep designs and delivers custom-built AI computing systems that enable businesses, research institutions and professionals to run large language models locally, without relying on external cloud infrastructure. To find out more sign up to our newsletter <button class="ml-onclick-form" onclick="ml('show', 'nIfCK1', true)">Click here</button>
+ 
+
+
 
 <hr />
 <h4>
@@ -36,6 +40,7 @@ My position(s) will end beginning of March 2027 although I am in the loop for ma
 I am an organizer of the Differential Equations for Data Science seminar [DEDS](https://scheme.hn/deds/), if you want to join our seminar mailingslist click [here](https://groups.google.com/forum/#!forum/deds-ku/join). I am also an organizer of the [Dynamical systems Study Group](https://mathowl.github.io/tgdejong/community/). This is an online open study group, please contact me if you are interested in participating
 
 As a first generation university graduate with a lower class background I very strongly believe in a grass-roots approach to science. I think research investments should be more strongly focused on developing countries as the greatest improvement to society is achieved by lifting up the people at the bottom. I am very supportive of open-source. I think that a delta-function perspective on research is outdated in the age of model-free methods.  
+
 
 **Current projects:**
 <ul>
