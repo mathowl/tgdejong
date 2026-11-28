@@ -9,9 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>211, building C4  </p>
-    <p>Faculty of Mathematics and Physics</p>
-    <p>Kanazawa, Japan</p>
+    <p>Max Planck Institute for the Physics of Complex Systems, Dresden</p>
+    <p>Temple University Japan campus, Tokyo</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
