@@ -46,7 +46,7 @@ I am a Founder of Eigenkeep. Eigenkeep designs and delivers custom-built AI comp
   </button>
 
   <p style="margin:12px 0 0; font-size:14px;">
-    Occasional emails. Unsubscribe anytime.
+    Personal AI. Private by design. 
   </p>
 </div>
 
